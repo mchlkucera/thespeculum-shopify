@@ -1,0 +1,2617 @@
+{
+  "current": {
+    "performance": "ludicrous",
+    "image_loading_style": "blur-up",
+    "custom_scripts": "",
+    "logo_color": "#000000",
+    "regular_color": "#ffffff",
+    "banner_color": "#ffffff",
+    "headline_color": "#ffffff",
+    "headline_footer_text_color": "#9d8661",
+    "sub_footer_text_color": "#ffffff",
+    "sale_color": "#c57e7e",
+    "was_price_color": "#8c8b8b",
+    "product_hover_text_color": "#ffffff",
+    "promo_text_color": "#000000",
+    "shop_home_page_content_text_color": "#363636",
+    "newsletter_popup_color": "#363636",
+    "newsletter_section_color": "#ffffff",
+    "collection_filter_color": "#333333",
+    "top_bar_color": "#ffffff",
+    "top_bar_color_hover": "#202020",
+    "nav_color": "#ffffff",
+    "nav_color_home": "#000000",
+    "nav_color_hover": "#9d8661",
+    "link_color": "#9d8661",
+    "link_hover_color": "#9d8661",
+    "sidebar_nav_color": "#363636",
+    "sidebar_nav_color_hover": "#9d8661",
+    "sub_footer_link_color": "#ffffff",
+    "sub_footer_link_color_hover": "#9d8661",
+    "btn_color": "#9d8661",
+    "banner_button_color": "#9d8661",
+    "btn_hover_color": "#9d8661",
+    "btn_text_color": "#ffffff",
+    "button_style": "square",
+    "read_more_style": "button",
+    "swatch_style": "rounded",
+    "table_styles_enabled": true,
+    "slideshow_arrow_size": "light",
+    "arrow_color": "#cccccc",
+    "slideshow_button_style": false,
+    "slideshow_nav_buttons": false,
+    "border_color": "rgba(0,0,0,0)",
+    "headline_border_color": "rgba(0,0,0,0)",
+    "headline_border": "1",
+    "divider_style": "solid",
+    "sub_footer_border_color": "rgba(0,0,0,0)",
+    "banner_style": "square",
+    "sale_banner_color": "#c57e7e",
+    "new_banner_color": "#2d3740",
+    "search_section_color": "#333333",
+    "search_section_bg_color": "#cccccc",
+    "testimonial_color": "#ffffff",
+    "testimonial_bg_color": "#0f0f0f",
+    "featured_promotions_color": "#fff",
+    "featured_promotions_color_hover": "#fff",
+    "featured_promotions_background": "#171717",
+    "featured_promotions_mobile_background": true,
+    "modal_background_color": "#171717",
+    "modal_text_color": "#2b2e38",
+    "shop_bg_color": "#0f0f0f",
+    "custom_bg": "",
+    "repeat_bg": "repeat",
+    "bg_fixed": false,
+    "bg_stretched": false,
+    "top_bar_bg_color": "#9d8661",
+    "top_bar_cart_bg_color": "#9d8661",
+    "minicart_bg_color": "#272727",
+    "banner_placeholder_background_color": "#666666",
+    "banner_background_color": "#1e1e1e",
+    "header_bg_color": "#1f1f1f",
+    "header_background": true,
+    "transparent_header": true,
+    "promo_bg_color": "#a89373",
+    "shop_home_page_content_bg_color": "#0f0f0f",
+    "featured_links_background": "#171717",
+    "product_hover_bg_color": "#171717",
+    "sub_footer_color": "#1f1f1f",
+    "footer_bg": "",
+    "footer_bg_stretched": false,
+    "newsletter_popup_background_color": "#ffffff",
+    "newsletter_section_background_color": "#171717",
+    "password_page_text_color": "#ffffff",
+    "password_page_background_color": "#000000",
+    "logo__font": "unna_n4",
+    "logo_font_style": "uppercase",
+    "logo_font_size": 20,
+    "top_bar_font_size": 13,
+    "top_bar_letter_spacing": 3,
+    "nav__font": "roboto_n4",
+    "nav_font_style": "uppercase",
+    "nav_font_size": 15,
+    "nav_letter_spacing": 2,
+    "nav_shadow": false,
+    "button_weight": "normal",
+    "button_font_style": "uppercase",
+    "button_font_size": 14,
+    "mega_text_font_size": 14,
+    "mega_text_letter_spacing": 1,
+    "headline__font": "unna_n4",
+    "headline_font_style": "uppercase",
+    "headline_font_size": 34,
+    "headline_letter_spacing": 2,
+    "slideshow_headline__font": "roboto_n4",
+    "slideshow_headline_font_style": "none",
+    "slideshow_headline_size": 50,
+    "slideshow_headline_letter_spacing": 1,
+    "slideshow_headline_shadow": true,
+    "slideshow_subtitle__font": "roboto_n4",
+    "slideshow_subtitle_font_style": "none",
+    "slideshow_subtitle_size": 20,
+    "slideshow_subtitle_letter_spacing": 1,
+    "slideshow_shadow": true,
+    "regular__font": "roboto_n4",
+    "regular_font_style": "none",
+    "regular_font_size": 16,
+    "footer_logo_font_size": 20,
+    "footer_heading_font_size": 18,
+    "footer_font_size": 14,
+    "mega_menu_1": false,
+    "mega_menu_2": false,
+    "mega_menu_3": false,
+    "mega_menu_4": false,
+    "mega_menu_5": false,
+    "search_option": "everything",
+    "search_pagination_type": "basic_pagination",
+    "enable_autocomplete": false,
+    "search_to_display": 5,
+    "align_height": false,
+    "collection_height": 200,
+    "thumbnail_hover_enabled": true,
+    "display_vendor": false,
+    "collection_secondary_image": false,
+    "sale_banner_enabled": true,
+    "collection_swatches": false,
+    "mobile_products_per_row": "2",
+    "pagination_type": "basic_pagination",
+    "notify_me_form": true,
+    "notify_me_richtext": "<p>Notify me when this product is available:<\/p>",
+    "product_form_style": "swatches",
+    "display_product_quantity": true,
+    "limit_quantity": false,
+    "display_inventory_left": false,
+    "inventory_threshold": 10,
+    "display_price": false,
+    "sold_out_text": "Sold Out",
+    "free_price_text": "Price TBD",
+    "size_chart": "",
+    "enable_shopify_review_comments": false,
+    "enable_shopify_collection_badges": true,
+    "quick_shop_enabled": false,
+    "quick_shop_style": "popup",
+    "product_thumbs": true,
+    "gallery_arrows": true,
+    "activate_zoom": true,
+    "slideshow_speed": 6,
+    "slideshow_animation": "fade",
+    "thumbnail_position": "left-thumbnails",
+    "enable_thumbnail_slider": true,
+    "quick_shop_display_vendor": false,
+    "quick_shop_full_description": false,
+    "description_words": 25,
+    "quick_shop_product_description_position": "top",
+    "quick_shop_display_savings": true,
+    "show_payment_button": true,
+    "product_images_position": "left",
+    "video_looping": true,
+    "cart_action": "ajax",
+    "show_lock_icon": true,
+    "display_tos_checkbox": false,
+    "tos_page": "terms-of-service",
+    "go_to_checkout": true,
+    "display_special_instructions": false,
+    "display_savings": true,
+    "cart_message": "",
+    "show_shipping_calculator": false,
+    "shipping_calculator_default_country": "",
+    "currency_format": "money_format",
+    "show_multiple_currencies": true,
+    "supported_currencies": "USD CAD AUD GBP EUR JPY",
+    "default_currency": "EUR",
+    "mailchimp_link": "",
+    "secondary_newsletter_banner": false,
+    "newsletter_popup": false,
+    "newsletter_popup_close": true,
+    "newsletter_popup_mobile": false,
+    "newsletter_popup_form": true,
+    "display_first_name": true,
+    "display_last_name": false,
+    "use_newsletter_border": false,
+    "newsletter_bg": "",
+    "image_crop": "none",
+    "newsletter_popup_image_align": "right",
+    "newsletter_popup_title": "Sign up now for a discount!",
+    "newsletter_popup_text": "<p><\/p>\n<p><\/p>\n<p><strong>&nbsp;<\/strong><\/p>",
+    "newsletter_popup_text_align": "center",
+    "popup_button1": "Continue shopping",
+    "popup_button1_link": "",
+    "popup_button1_highlight": true,
+    "popup_button2": "",
+    "popup_button2_link": "",
+    "popup_button2_highlight": false,
+    "newsletter_popup_seconds": 18,
+    "newsletter_popup_days": "2",
+    "twitter_link": "",
+    "facebook_link": "https:\/\/facebook.com\/thespeculummirrors",
+    "youtube_link": "",
+    "vimeo_link": "",
+    "pinterest_link": "",
+    "tumblr_link": "",
+    "instagram_link": "https:\/\/www.instagram.com\/TheSpeculumMirrors",
+    "snapchat_link": "",
+    "houzz_link": "",
+    "linkedin_link": "",
+    "email_link": "info@thespeculum.com",
+    "og_image_fallback": "shopify:\/\/shop_images\/1000x250-black-stripe_1.png",
+    "favicon": "shopify:\/\/shop_images\/favicon.png",
+    "disqus_enabled": false,
+    "disqus_shortname": "",
+    "checkout_header_image": "shopify:\/\/shop_images\/Navrh_bez_nazvu.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/1000x250-black-stripe.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "large",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#171717",
+    "checkout_input_background_color_mode": "transparent",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#171717",
+    "checkout_heading_font": "Roboto",
+    "checkout_body_font": "Roboto",
+    "checkout_accent_color": "#c79f5c",
+    "checkout_button_color": "#c1aa89",
+    "checkout_error_color": "#e1255f",
+    "quick_shop_zoom": false,
+    "quick_shop_gallery_arrows": true,
+    "quick_shop_slideshow_animation": "slide",
+    "quick_shop_product_images_position": "left",
+    "quick_shop_product_thumbs": true,
+    "quick_shop_thumbnail_position": "bottom-thumbnails",
+    "google_link": "",
+    "enable_shopify_product_badges": false,
+    "review_position": "below_product_details",
+    "logo_font": "Google_Dosis",
+    "logo_weight": "normal",
+    "nav_font": "Google_Dosis",
+    "nav_weight": "normal",
+    "headline_font": "Google_Dosis",
+    "headline_weight": "normal",
+    "headline_font_text": "normal",
+    "slideshow_headline_font": "Google_Dosis",
+    "slideshow_headline_weight": "lighter",
+    "slideshow_headline_font_text": "normal",
+    "slideshow_subtitle_font": "Google_Dosis",
+    "slideshow_subtitle_weight": "lighter",
+    "slideshow_subtitle_font_text": "normal",
+    "regular_font": "Arial, 'Helvetica Neue', Helvetica, sans-serif",
+    "regular_weight": "lighter",
+    "custom_logo": "",
+    "password-page-background": "",
+    "pagework_page_bg_stretched": true,
+    "featured_promotions_background_hover": "#000",
+    "featured_promos_text_color": "#3e3e3e",
+    "use_custom_bg_image": false,
+    "use_password_bg_image": true,
+    "twitter_widget": false,
+    "twitter_username": "",
+    "twitter_title": "Tweets",
+    "twitter_theme": "light",
+    "tweet_count": "3",
+    "instagram_widget": false,
+    "instagram_client_id": "",
+    "instagram_title": "Instagram",
+    "instagram_count": "4",
+    "products_per_row": "4",
+    "pagination_limit": "24",
+    "use_custom_footer_image": false,
+    "use_logo": false,
+    "logo_alignment": "center",
+    "use_logo_home": false,
+    "use_logo_mobile": false,
+    "logo_width": "160",
+    "promo_text": "",
+    "phone_number": "",
+    "top_bar_menu": "",
+    "main_linklist": "main-menu",
+    "main_linklist2": "",
+    "menu_position": "inline",
+    "menu_alignment": "align_left",
+    "fixed_header": true,
+    "logo_top_padding": "12",
+    "menu_top_padding": "8",
+    "cart_icon": "cart",
+    "search_enabled": true,
+    "collection_sidebar": false,
+    "product_sidebar": false,
+    "collection_top_sidebar_page": "",
+    "collection_sidebar_linklist": "",
+    "collection_sidebar_linklist2": "",
+    "filter_by_category": false,
+    "filter_by_tag": true,
+    "collection_sidebar_products": true,
+    "collection_sidebar_vendors": false,
+    "collection_sidebar_page": "",
+    "footer_logo": false,
+    "footer_linklist_1": "footer",
+    "footer_linklist_2": "main-menu",
+    "footer_linklist_3": "",
+    "footer_content_page": "",
+    "copyright_text": "",
+    "display_designed_by": true,
+    "display_payment_methods": true,
+    "behind_menu": true,
+    "position_1": "1",
+    "position_2": "12",
+    "position_3": "7",
+    "position_4": "9",
+    "position_5": "16",
+    "position_6": "15",
+    "position_7": "0",
+    "position_8": "0",
+    "position_9": "0",
+    "position_10": "0",
+    "position_11": "0",
+    "position_12": "0",
+    "position_13": "0",
+    "position_14": "0",
+    "position_15": "0",
+    "position_16": "0",
+    "position_17": "0",
+    "position_18": "0",
+    "caption_background": false,
+    "image_1_pretext": "Introducing the",
+    "image_1_headline": "Turbo Shopify theme",
+    "image_1_subtitle": "from Out of the Sandbox",
+    "image_1_text_position": "center",
+    "image_1_text_align": "center",
+    "image_1_button1_text": "",
+    "image_1_button1_link": "",
+    "image_1_button1_highlight": false,
+    "image_1_button2_text": "",
+    "image_1_button2_link": "",
+    "image_1_button2_highlight": false,
+    "image_2_pretext": "",
+    "image_2_headline": "",
+    "image_2_subtitle": "",
+    "image_2_text_position": "left",
+    "image_2_text_align": "center",
+    "image_2_button1_text": "",
+    "image_2_button1_link": "",
+    "image_2_button1_highlight": false,
+    "image_2_button2_text": "",
+    "image_2_button2_link": "",
+    "image_2_button2_highlight": false,
+    "image_3_pretext": "",
+    "image_3_headline": "",
+    "image_3_subtitle": "",
+    "image_3_text_position": "left",
+    "image_3_text_align": "center",
+    "image_3_button1_text": "",
+    "image_3_button1_link": "",
+    "image_3_button1_highlight": false,
+    "image_3_button2_text": "",
+    "image_3_button2_link": "",
+    "image_3_button2_highlight": false,
+    "image_4_pretext": "",
+    "image_4_headline": "",
+    "image_4_subtitle": "",
+    "image_4_text_position": "left",
+    "image_4_text_align": "center",
+    "image_4_button1_text": "",
+    "image_4_button1_link": "",
+    "image_4_button1_highlight": false,
+    "image_4_button2_text": "",
+    "image_4_button2_link": "",
+    "image_4_button2_highlight": false,
+    "image_5_pretext": "",
+    "image_5_headline": "",
+    "image_5_subtitle": "",
+    "image_5_text_position": "left",
+    "image_5_text_align": "center",
+    "image_5_button1_text": "",
+    "image_5_button1_link": "",
+    "image_5_button1_highlight": false,
+    "image_5_button2_text": "",
+    "image_5_button2_link": "",
+    "image_5_button2_highlight": false,
+    "image_6_pretext": "",
+    "image_6_headline": "",
+    "image_6_subtitle": "",
+    "image_6_text_position": "left",
+    "image_6_text_align": "left",
+    "image_6_button1_text": "",
+    "image_6_button1_link": "",
+    "image_6_button1_highlight": false,
+    "image_6_button2_text": "",
+    "image_6_button2_link": "",
+    "image_6_button2_highlight": false,
+    "featured_promos_per_row": "4",
+    "featured_promos_grid": "full_width",
+    "feature_title_on_image_enabled": true,
+    "featured_links_style": "",
+    "feature1_enabled": true,
+    "feature1_link": "",
+    "feature1_title": "Promo 1",
+    "feature1_description": "Optional description can go here",
+    "feature1_button": "",
+    "feature2_enabled": true,
+    "feature2_link": "http:\/\/support.outofthesandbox.com\/",
+    "feature2_title": "Promo 2",
+    "feature2_description": "Visit the Out of the Sandbox Support Center for Turbo-related articles and how-tos",
+    "feature2_button": "",
+    "feature3_enabled": true,
+    "feature3_link": "",
+    "feature3_title": "Promo 3",
+    "feature3_description": "Publish Turbo as your main theme when you're ready to launch!",
+    "feature3_button": "",
+    "feature4_enabled": true,
+    "feature4_link": "https:\/\/twitter.com\/outofthesandbox",
+    "feature4_title": "Promo 4",
+    "feature4_description": "Let us know when your new shop launches on Twitter",
+    "feature4_button": "",
+    "feature5_enabled": false,
+    "feature5_link": "",
+    "feature5_title": "",
+    "feature5_description": "",
+    "feature5_button": "",
+    "feature6_enabled": false,
+    "feature6_link": "",
+    "feature6_title": "",
+    "feature6_description": "",
+    "feature6_button": "",
+    "feature7_enabled": false,
+    "feature7_link": "",
+    "feature7_title": "",
+    "feature7_description": "",
+    "feature7_button": "",
+    "feature8_enabled": false,
+    "feature8_link": "",
+    "feature8_title": "",
+    "feature8_description": "",
+    "feature8_button": "",
+    "frontpage_linklist": "",
+    "frontpage_collections_per_row": "1",
+    "frontpage_text_align": "left",
+    "frontpage_collection": "frontpage",
+    "frontpage_collection_style": "slider",
+    "frontpage_products_per_row": "4",
+    "frontpage_collection2": "",
+    "frontpage_collection_style2": "grid",
+    "frontpage_products_per_row2": "4",
+    "frontpage_collection_full": "",
+    "frontpage_display_description": false,
+    "frontpage_product_stagger": true,
+    "homepage1": "frontpage",
+    "homepage2": "",
+    "homepage3": "",
+    "blog_widget_select": "news",
+    "home_page_articles": "4",
+    "slideshow_text_animation": "fadeIn",
+    "slideshow_text_background": false,
+    "slidespeed": "6000",
+    "slide1_enabled": true,
+    "slide1_alt_text": "",
+    "slide1_pretext": "A full-width slideshow",
+    "slide1_headline": "This is a big heading",
+    "slide1_subtitle": "This is a subheading where you can include more text if you wish",
+    "slide1_text_position": "right",
+    "slide1_text_align": "right",
+    "slide1_button1_text": "",
+    "slide1_button1_link": "",
+    "slide1_button1_highlight": false,
+    "slide1_button2_text": "",
+    "slide1_button2_link": "",
+    "slide1_button2_highlight": false,
+    "slide2_enabled": true,
+    "slide2_alt_text": "",
+    "slide2_pretext": "",
+    "slide2_headline": "Just a banner heading here",
+    "slide2_subtitle": "",
+    "slide2_text_position": "center",
+    "slide2_text_align": "center",
+    "slide2_button1_text": "Button 1",
+    "slide2_button1_link": "",
+    "slide2_button1_highlight": true,
+    "slide2_button2_text": "Button 2",
+    "slide2_button2_link": "",
+    "slide2_button2_highlight": false,
+    "slide3_enabled": false,
+    "slide3_alt_text": "",
+    "slide3_pretext": "",
+    "slide3_headline": "",
+    "slide3_subtitle": "",
+    "slide3_text_position": "left",
+    "slide3_text_align": "left",
+    "slide3_button1_text": "",
+    "slide3_button1_link": "",
+    "slide3_button1_highlight": false,
+    "slide3_button2_text": "",
+    "slide3_button2_link": "",
+    "slide3_button2_highlight": false,
+    "slide4_enabled": false,
+    "slide4_alt_text": "",
+    "slide4_pretext": "",
+    "slide4_headline": "",
+    "slide4_subtitle": "",
+    "slide4_text_position": "left",
+    "slide4_text_align": "left",
+    "slide4_button1_text": "",
+    "slide4_button1_link": "",
+    "slide4_button1_highlight": false,
+    "slide4_button2_text": "",
+    "slide4_button2_link": "",
+    "slide4_button2_highlight": false,
+    "slide5_enabled": false,
+    "slide5_alt_text": "",
+    "slide5_pretext": "",
+    "slide5_headline": "",
+    "slide5_subtitle": "",
+    "slide5_text_position": "left",
+    "slide5_text_align": "left",
+    "slide5_button1_text": "",
+    "slide5_button1_link": "",
+    "slide5_button1_highlight": false,
+    "slide5_button2_text": "",
+    "slide5_button2_link": "",
+    "slide5_button2_highlight": false,
+    "slide6_enabled": false,
+    "slide6_alt_text": "",
+    "slide6_pretext": "",
+    "slide6_headline": "",
+    "slide6_subtitle": "",
+    "slide6_text_position": "left",
+    "slide6_text_align": "left",
+    "slide6_button1_text": "",
+    "slide6_button1_link": "",
+    "slide6_button1_highlight": false,
+    "slide6_button2_text": "",
+    "slide6_button2_link": "",
+    "slide6_button2_highlight": false,
+    "banner_video_source": "youtube",
+    "aspect_ratio": "16:9",
+    "banner_video_autoloop": false,
+    "banner_video_autoplay": false,
+    "banner_video_text": false,
+    "video_dark_overlay": false,
+    "banner_video_id": "eGyhA-DIYvg",
+    "banner_video_mp4": "",
+    "banner_video_ogv": "",
+    "video_pretext": "Full-width video section",
+    "video_headline": "Optional heading here",
+    "video_subtitle": "",
+    "video_text_position": "center",
+    "video_text_align": "center",
+    "video_button1_text": "Play Video",
+    "video_button1_link": "",
+    "video_button1_highlight": true,
+    "video_button2_text": "",
+    "video_button2_link": "",
+    "video_button2_highlight": false,
+    "product_breadcrumb": true,
+    "display_tags": true,
+    "display_type": true,
+    "display_sku": false,
+    "display_collections": true,
+    "display_related_products": true,
+    "products_per_slide": "3",
+    "activate_autoplay": false,
+    "product_description_position": "bottom",
+    "collection_breadcrumb": true,
+    "collection_tags": true,
+    "collection_sort": true,
+    "display_collection_title": true,
+    "display_vendor_collection": false,
+    "collection_banner_enabled": false,
+    "display_collection_header_title": false,
+    "contact_address": "",
+    "zoom_level": "15",
+    "contact_banner_enabled": true,
+    "image_contact_headline": "",
+    "image_contact_subtitle": "",
+    "blog_posts_per_page": "6",
+    "blog_articles_per_row": "3",
+    "blog_breadcrumb": true,
+    "blog_tags": true,
+    "blog_author": true,
+    "blog_date": true,
+    "blog_comment_count": true,
+    "read_more_link": true,
+    "blog_additional_articles": true,
+    "sidebar_enabled": false,
+    "blog_search": true,
+    "blog_newsletter": true,
+    "display_recent_articles": false,
+    "blog_sidebar_tags": true,
+    "blog_content_page": "",
+    "article_banner_enabled": false,
+    "article_banner_darken": true,
+    "blog_banner_enabled": false,
+    "image_blog_headline": "",
+    "image_blog_subtitle": "",
+    "use_newsletter_image": true,
+    "newsletter_img_alt_text": "",
+    "newsletter_banner": true,
+    "use_newsletter_section_bg_image": false,
+    "newsletter_section_text_align": "center",
+    "display_social_buttons": true,
+    "social_icons_header": true,
+    "social_icons_footer": true,
+    "checkout_use_header_image": false,
+    "checkout_logo": "",
+    "checkout_use_body_background_image": false,
+    "checkout_use_sidebar_background_image": false,
+    "icon_btn_color": "#969696",
+    "icon_btn_text_color": "#FFFFFF",
+    "quick_shop_color": "#000000",
+    "slideshow_arrows": "0",
+    "home_blog_slider": "0",
+    "promo_banner_global": false,
+    "side_cart_position": "right",
+    "slideshow_subtitle_typeface_method": "google_webfonts",
+    "headline_animation": "fadeIn",
+    "share_banner_color": "#007a87",
+    "dropdown_column_links": "10",
+    "content_top_padding": "100",
+    "tab_background_color": "#ffffff",
+    "mobile_header_bg_color": "#666666",
+    "mobile_menu_color": "black",
+    "shop_use_content_bg_color": false,
+    "shop_content_bg_color": "",
+    "shop_use_home_page_content_bg_color": true,
+    "logo_typeface_method": "google_webfonts",
+    "logo_websafe_font": "Helvetica, Arial, sans-serif",
+    "logo_color_home": "#ffffff",
+    "headline_typeface_method": "google_webfonts",
+    "headline_websafe_font": "'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+    "nav_typeface_method": "google_webfonts",
+    "nav_websafe_font": "'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Lucida, Helvetica, Arial, sans-serif",
+    "regular_typeface_method": "websafe",
+    "regular_websafe_font": "'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+    "slideshow_1_enabled": true,
+    "homepage_arrow": true,
+    "image_1_height": "550",
+    "image_1_alt_text": "",
+    "image_1_text_color": "#ffffff",
+    "image_1_button_text": "",
+    "image_1_link": "",
+    "slideshow_2_enabled": false,
+    "image_2_position": "3",
+    "image_2_height": "550",
+    "image_2_alt_text": "",
+    "image_2_text_color": "#ffffff",
+    "image_2_button_text": "",
+    "image_2_link": "",
+    "slideshow_3_enabled": false,
+    "image_3_position": "5",
+    "image_3_height": "550",
+    "image_3_alt_text": "",
+    "image_3_text_color": "#ffffff",
+    "image_3_button_text": "",
+    "image_3_link": "",
+    "slideshow_4_enabled": false,
+    "image_4_position": "7",
+    "image_4_height": "600",
+    "image_4_alt_text": "",
+    "image_4_text_color": "#ffffff",
+    "image_4_button_text": "",
+    "image_4_link": "",
+    "slideshow_5_enabled": false,
+    "image_5_position": "10",
+    "image_5_height": "550",
+    "image_5_alt_text": "",
+    "image_5_text_color": "#ffffff",
+    "image_5_button_text": "",
+    "image_5_link": "",
+    "slideshow_6_enabled": false,
+    "image_6_position": "2",
+    "image_6_height": "550",
+    "image_6_alt_text": "",
+    "image_6_text_color": "#ffffff",
+    "image_6_button_text": "",
+    "image_6_link": "",
+    "content_1_position": "4",
+    "content_2_position": "6",
+    "content_3_position": "10",
+    "featured_links_position": "2",
+    "featured_links": true,
+    "featured_links_count": "3",
+    "featured_collections_position": "15",
+    "featured_products_position": "8",
+    "featured_product_position": "9",
+    "featured_blog_position": "13",
+    "featured_social_position": "14",
+    "instagram_username": "",
+    "product_slideshow_animation": "slide",
+    "add_to_cart_text": "Add to Cart",
+    "related_products_title": "Related Items",
+    "inventory_left_text": "items left",
+    "homepage_sidebar": false,
+    "collection_sidebar_vendor_text": "Vendors",
+    "tags_text": "Filter",
+    "side_cart_enabled": true,
+    "tax_included": false,
+    "shipping_calculator_heading": "Shipping rates calculator",
+    "shipping_calculator_submit_button_label": "Calculate shipping rates",
+    "shipping_calculator_submit_button_label_disabled": "Calculating...",
+    "constrain_logo": true,
+    "total_text": "TOTAL",
+    "display_social_buttons_blog": true,
+    "newsletter_enabled": true,
+    "newsletter_description": "Sign up to get the latest on sales, new releases and more …",
+    "newsletter_success_text": "Thank you for joining our mailing list!",
+    "newsletter_system": "shopify",
+    "flickr_link": "",
+    "newsletter_popup_page": "",
+    "newsletter_popup_max_width": "600",
+    "blog_widget": "false",
+    "instagram_tag_name": "",
+    "slideshow_menu": "true",
+    "cart_return": "checkout",
+    "side_cart_button_position": "bottom",
+    "nav_active_color": "#B8C6C6",
+    "quick_shop_text": "Quick View",
+    "newsletter_text": "News & Updates",
+    "footer_link_color": "#55c0d4",
+    "footer_link_color_hover": "#fc4c02",
+    "footer_color": "#16161d",
+    "footer_text_color": "#ffffff",
+    "featured_text": "#ffffff",
+    "feature1_text": "420x265",
+    "feature2_text": "420x265",
+    "feature3_text": "420x265",
+    "featured_links_weight": "bold",
+    "social_icons_enabled": "true",
+    "headline_sub_footer_text_color": "#404040",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "promo_text": "<p>33% OFF NEW YEAR SALE<\/p>",
+          "social_icons_header": true,
+          "phone_number": "+420 776 683 636",
+          "top_bar_menu": "",
+          "show_cart": true,
+          "cart_icon": "cart",
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "logo_display_width": 205,
+          "logo": "shopify:\/\/shop_images\/400x100-transparent.png",
+          "logo_home": "",
+          "logo_mobile": "shopify:\/\/shop_images\/100x50-transparent.png",
+          "main_linklist": "main-menu",
+          "main_linklist2": "",
+          "vertical_menu": false,
+          "dropdown_click": false,
+          "search_enabled": false,
+          "fixed_header": true,
+          "logo_position": "left",
+          "logo_alignment": "center",
+          "menu_position": "inline",
+          "menu_alignment": "align_right"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "logo",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1000x250-transp-clean.png",
+              "text_align": "left",
+              "social_icons_footer": true
+            }
+          },
+          "1600388013451": {
+            "type": "empty",
+            "settings": {
+              "social_icons_footer": false
+            }
+          },
+          "1601155285798": {
+            "type": "empty",
+            "settings": {
+              "social_icons_footer": false
+            }
+          },
+          "1600425164702": {
+            "type": "link_list",
+            "settings": {
+              "menu": "learn-more",
+              "social_icons_footer": false
+            }
+          },
+          "footer-2": {
+            "type": "link_list",
+            "settings": {
+              "menu": "footer",
+              "social_icons_footer": false
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "1600388013451",
+          "1601155285798",
+          "1600425164702",
+          "footer-2"
+        ],
+        "settings": {
+          "copyright_text": "<br>Havlíčkovo nábřeží 38, 70200, Czech Republic",
+          "display_designed_by": true,
+          "display_payment_methods": true,
+          "show_locale_selector": true,
+          "show_currency_selector": false
+        }
+      },
+      "1488497250346": {
+        "type": "slideshow",
+        "blocks": {
+          "1489599925759": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/niceCoal.png",
+              "pretext": "",
+              "title": "Reflection of the future",
+              "subtitle": "<p>Experience uniqueness never seen before, explore the innovation brought by The Speculum.<\/p>",
+              "caption_background": false,
+              "caption_background_transparency": false,
+              "button1": "Find out more",
+              "button1_link": "https:\/\/thespeculum.com\/#shopify-section-1600386792679",
+              "button1_highlight": false,
+              "button2": "",
+              "button2_link": "",
+              "button2_highlight": false,
+              "text_position": "center",
+              "text_align": "center",
+              "mobile_image_crop": "center"
+            }
+          },
+          "1489594068647": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/moody-borg.png",
+              "pretext": "",
+              "title": "Revolutionize your personal space",
+              "subtitle": "<p>It's 2021. Time for an upgrade.<\/p>",
+              "caption_background": false,
+              "caption_background_transparency": false,
+              "button1": "Features",
+              "button1_link": "https:\/\/thespeculum.com\/#shopify-section-1600386792679",
+              "button1_highlight": true,
+              "button2": "Buy now",
+              "button2_link": "shopify:\/\/products\/speculum-smart-mirror",
+              "button2_highlight": false,
+              "text_position": "center",
+              "text_align": "center",
+              "mobile_image_crop": "center"
+            }
+          },
+          "1601402574692": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/IMG_1583.JPG",
+              "pretext": "",
+              "title": "14 days refund. No questions asked.",
+              "subtitle": "<p>Something is not quite right? You have 14 days to make sure our mirror fits your taste.<\/p>",
+              "caption_background": false,
+              "caption_background_transparency": false,
+              "button1": "what our customers say",
+              "button1_link": "https:\/\/thespeculum.com\/#testimonial-1606126185887",
+              "button1_highlight": false,
+              "button2": "",
+              "button2_link": "",
+              "button2_highlight": false,
+              "text_position": "center",
+              "text_align": "center",
+              "mobile_image_crop": "center"
+            }
+          },
+          "1601417832487": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/nine-pain.png",
+              "pretext": "",
+              "title": "Buying more than one?",
+              "subtitle": "<p>Contact us and we will craft a discounted offer just for you<\/p>",
+              "caption_background": false,
+              "caption_background_transparency": false,
+              "button1": "Contact us",
+              "button1_link": "shopify:\/\/pages\/contact",
+              "button1_highlight": true,
+              "button2": "Interior inspiration",
+              "button2_link": "https:\/\/thespeculum.com\/products\/speculum-smart-mirror\/#shopify-section-gallery",
+              "button2_highlight": false,
+              "text_position": "center",
+              "text_align": "center",
+              "mobile_image_crop": "center"
+            }
+          },
+          "1606697686895": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/wiide.png",
+              "pretext": "",
+              "title": "Premium quality materials",
+              "subtitle": "<p>Our mirrors are created using the highest quality tempered glass in an enviroment friendly process.<\/p>",
+              "caption_background": false,
+              "caption_background_transparency": false,
+              "button1": "",
+              "button1_link": "",
+              "button1_highlight": false,
+              "button2": "",
+              "button2_link": "",
+              "button2_highlight": false,
+              "text_position": "center",
+              "text_align": "center",
+              "mobile_image_crop": "none"
+            }
+          }
+        },
+        "block_order": [
+          "1489599925759",
+          "1489594068647",
+          "1601402574692",
+          "1601417832487",
+          "1606697686895"
+        ],
+        "settings": {
+          "wide_display": true,
+          "slideshow_text_animation": "fadeInDown",
+          "slideshow_animation": "slide",
+          "slideshow_speed": 5,
+          "activate_adaptiveHeight": false,
+          "mobile_text_below_image": true,
+          "mobile_text_color": ""
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "wide_display": true,
+          "featured_collection_image": false,
+          "image_darken": true,
+          "image": "",
+          "display_collection_title": true,
+          "collection_breadcrumb": false,
+          "collection_tags": true,
+          "collection_sort": true,
+          "products_per_row": 3,
+          "pagination_limit": 24,
+          "toggle": false
+        }
+      },
+      "newsletter": {
+        "type": "newsletter",
+        "settings": {
+          "wide_display": true,
+          "display_first_name": false,
+          "display_last_name": false,
+          "newsletter_title": "Sign up to our newsletter",
+          "newsletter_text": "<p>Stay up to date on our releases<\/p>",
+          "newsletter_section_text_align": "center",
+          "image": ""
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_thumbs": true,
+          "gallery_arrows": false,
+          "enable_product_lightbox": true,
+          "activate_zoom": true,
+          "slideshow_speed": 0,
+          "slideshow_animation": "slide",
+          "thumbnail_position": "bottom",
+          "enable_thumbnail_slider": true,
+          "display_vendor": false,
+          "product_breadcrumb": false,
+          "display_sku": false,
+          "display_collections": false,
+          "display_type": false,
+          "display_tags": false,
+          "display_social_buttons": false,
+          "product_description_position": "bottom",
+          "display_savings": true,
+          "show_payment_button": true,
+          "product_images_position": "left",
+          "set_product_height": false,
+          "product_height": 500,
+          "video_looping": true,
+          "enable_shopify_product_badges": false,
+          "review_position": "below_gallery",
+          "display_recently_viewed": false,
+          "rv_title": "Recently Viewed Items",
+          "rv_products_style": "grid",
+          "rv_max_display": 4,
+          "rv_per": 4,
+          "toggle": false
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "display_special_instructions": false,
+          "display_savings": true,
+          "cart_message": ""
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "blocks": {
+          "1488991636216": {
+            "type": "search",
+            "settings": {}
+          },
+          "1488991622143": {
+            "type": "recent_posts",
+            "settings": {
+              "blog_post_count": "10"
+            }
+          }
+        },
+        "block_order": [
+          "1488991636216",
+          "1488991622143"
+        ],
+        "settings": {
+          "wide_display": true,
+          "image": "",
+          "image_darken": false,
+          "subtitle": "Discover the latest in audio technology",
+          "blog_posts_per_row": 2,
+          "blog_posts_per_page": 4,
+          "blog_tags": true,
+          "blog_author": false,
+          "read_time": true,
+          "blog_date": false,
+          "blog_comment_count": false,
+          "read_more_link": false,
+          "toggle": false
+        }
+      },
+      "product-description-bottom-template": {
+        "type": "product-description-bottom-template",
+        "settings": {
+          "product_thumbs": false,
+          "gallery_arrows": false,
+          "enable_product_lightbox": true,
+          "activate_zoom": false,
+          "slideshow_speed": 0,
+          "slideshow_animation": "slide",
+          "thumbnail_position": "bottom-thumbnails",
+          "enable_thumbnail_slider": true,
+          "display_vendor": false,
+          "product_breadcrumb": false,
+          "display_sku": false,
+          "display_collections": false,
+          "display_type": false,
+          "display_tags": false,
+          "display_social_buttons": true,
+          "display_savings": true,
+          "show_payment_button": false,
+          "product_images_position": "left",
+          "set_product_height": false,
+          "product_height": 500,
+          "video_looping": false,
+          "enable_shopify_product_badges": false,
+          "review_position": "next_to_gallery",
+          "display_recently_viewed": false,
+          "rv_title": "Recently Viewed",
+          "rv_products_style": "grid",
+          "rv_max_display": 6,
+          "rv_per": 4,
+          "toggle": false
+        }
+      },
+      "product-full-width-images-template": {
+        "type": "product-full-width-images-template",
+        "settings": {
+          "product_thumbs": true,
+          "gallery_arrows": false,
+          "enable_product_lightbox": true,
+          "activate_zoom": false,
+          "slideshow_speed": 0,
+          "slideshow_animation": "slide",
+          "thumbnail_position": "bottom-slider",
+          "enable_thumbnail_slider": true,
+          "display_vendor": true,
+          "product_breadcrumb": true,
+          "display_sku": false,
+          "display_collections": false,
+          "display_type": false,
+          "display_tags": false,
+          "display_social_buttons": true,
+          "product_description_position": "top",
+          "display_savings": true,
+          "show_payment_button": false,
+          "product_images_position": "left",
+          "set_product_height": false,
+          "product_height": 500,
+          "video_looping": false,
+          "enable_shopify_product_badges": false,
+          "review_position": "next_to_gallery",
+          "display_recently_viewed": false,
+          "rv_title": "Recently Viewed",
+          "rv_products_style": "grid",
+          "rv_max_display": 6,
+          "rv_per": 4,
+          "toggle": false
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "blocks": {
+          "1488955217347": {
+            "type": "search",
+            "settings": {}
+          },
+          "1488955204750": {
+            "type": "recent_posts",
+            "settings": {
+              "blog_post_count": "5"
+            }
+          },
+          "1488955212414": {
+            "type": "post_tags",
+            "settings": {}
+          },
+          "1488955225681": {
+            "type": "text",
+            "settings": {
+              "title": "Sidebar Content",
+              "text": "<p>You can add a content block like this to your blog article sidebar, and use it for more details about blog authors, for example.<\/p>"
+            }
+          },
+          "1489523557700": {
+            "type": "newsletter",
+            "settings": {
+              "newsletter_title": "Subscribe",
+              "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more &hellip;<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1488955217347",
+          "1488955204750",
+          "1488955212414",
+          "1488955225681",
+          "1489523557700"
+        ],
+        "settings": {
+          "wide_display": true,
+          "featured_image": "banner",
+          "image_darken": true,
+          "blog_breadcrumb": true,
+          "blog_pagination": true,
+          "blog_tags": false,
+          "blog_byline": false,
+          "read_time": true,
+          "blog_date": true,
+          "blog_author": true,
+          "display_social_buttons": true,
+          "blog_comment_count": true,
+          "blog_additional_posts": true,
+          "read_more_link": false,
+          "toggle": true
+        }
+      },
+      "contact-template": {
+        "type": "contact-template",
+        "settings": {
+          "image": "",
+          "image_darken": false,
+          "title": "",
+          "subtitle": "",
+          "contact_text": "",
+          "show_map": true,
+          "wide_display": true,
+          "map_address": "HAVLÍČKOVO NÁBŘEŽÍ 2728\/38, OSTRAVA 70200",
+          "map_height": 400,
+          "zoom_level": 12,
+          "map_image": "",
+          "api_key": "",
+          "show_pin": false,
+          "map_style": "night"
+        }
+      },
+      "search-template": {
+        "type": "search-template",
+        "settings": {
+          "image": "",
+          "image_darken": false,
+          "search_breadcrumb": false,
+          "search_term": "Search...",
+          "products_per_row": 2,
+          "pagination_limit": 24,
+          "blog_author": false,
+          "read_more_link": true,
+          "blog_date": true,
+          "toggle": false
+        }
+      },
+      "1489525208814": {
+        "type": "video",
+        "disabled": true,
+        "settings": {
+          "wide_display": true,
+          "aspect_ratio": "16:9",
+          "autoplay": true,
+          "autoloop": true,
+          "mute_video": true,
+          "show_controls": true,
+          "video_dark_overlay": false,
+          "iframe_video": "https:\/\/youtu.be\/LAdnd_iYHTo",
+          "html5_video": "",
+          "image": "shopify:\/\/shop_images\/maxresdefault.jpg",
+          "display_text_over_video": false,
+          "pretext": "<p>feature showcase video<\/p>",
+          "title": "feature showcase video",
+          "subtitle": "<p>Support for YouTube, Vimeo + HTML5 video<\/p>",
+          "caption_background": false,
+          "caption_background_transparency": false,
+          "button1_label": "Play Video",
+          "button1_link": "",
+          "button1_highlight": false,
+          "button2_label": "",
+          "button2_link": "",
+          "button2_highlight": false,
+          "text_position": "right",
+          "text_align": "center",
+          "mobile_text_below_image": false,
+          "mobile_text_color": ""
+        }
+      },
+      "page-gallery-template": {
+        "type": "page-gallery-template",
+        "blocks": {
+          "1489778787734": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489778738605": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489778867995": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489590242742": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489590267131": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489590205775": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489778673758": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489778766211": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489778694309": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489779171173": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489778720861": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489778819820": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489779099126": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489778846193": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489778892304": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489779151475": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489778901281": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489779070620": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489803770194": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489778944143": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489778710093": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          },
+          "1489779131492": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1489778787734",
+          "1489778738605",
+          "1489778867995",
+          "1489590242742",
+          "1489590267131",
+          "1489590205775",
+          "1489778673758",
+          "1489778766211",
+          "1489778694309",
+          "1489779171173",
+          "1489778720861",
+          "1489778819820",
+          "1489779099126",
+          "1489778846193",
+          "1489778892304",
+          "1489779151475",
+          "1489778901281",
+          "1489779070620",
+          "1489803770194",
+          "1489778944143",
+          "1489778710093",
+          "1489779131492"
+        ],
+        "settings": {
+          "show_divider": true,
+          "full_width": false,
+          "gallery_type": "horizontal",
+          "grid-size": 4,
+          "enable_lightbox": true
+        }
+      },
+      "product-details-template": {
+        "type": "product-details-template",
+        "blocks": {
+          "1489686557602": {
+            "type": "image_with_text_overlay",
+            "settings": {
+              "wide_display": true,
+              "image": "",
+              "pretext": "",
+              "title": "Try Turbo.<br>It'll be music to your ears.",
+              "subtitle": "<p>Give your shop a boost with this premium theme<\/p>",
+              "caption_background": false,
+              "caption_background_transparency": false,
+              "text_position": "right",
+              "text_align": "center",
+              "button1": "",
+              "button1_link": "",
+              "button1_highlight": true,
+              "button2": "",
+              "button2_link": "",
+              "button2_highlight": false,
+              "mobile_image_crop": "none",
+              "mobile_text_below_image": true,
+              "mobile_text_color": ""
+            }
+          },
+          "product-details-template-0": {
+            "type": "rich_text_and_image",
+            "settings": {
+              "image": "",
+              "title": "This page is using the <strong>Product Details<\/strong> template",
+              "content": "<p>&nbsp;When you apply&nbsp;the <em>product.details<\/em> template to&nbsp;one or more of you products, you will have some additional settings available when you navigate to this product in the&nbsp;theme editor. You can then add content below your main&nbsp;product area, such as a <strong>Rich text and image<\/strong> section&nbsp;like this one.&nbsp;Other optional sections include an <strong>Image gallery<\/strong> (3 photos per row), a full-width <strong>Image with text overlay<\/strong>, or an <strong>Image with text<\/strong>&nbsp;which has text on one side and an image on the other. You can even control the spacing between all these additional content blocks by adding a \"divider\" section!<\/p>",
+              "text_size": "featured_text",
+              "text_alignment": "center",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "product-details-template-1": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 20,
+              "divider_border": false
+            }
+          },
+          "product-details-template-4": {
+            "type": "image_with_text_overlay",
+            "settings": {
+              "wide_display": true,
+              "image": "",
+              "pretext": "",
+              "title": "",
+              "subtitle": "",
+              "caption_background": false,
+              "caption_background_transparency": false,
+              "text_position": "left",
+              "text_align": "left",
+              "button1": "",
+              "button1_link": "",
+              "button1_highlight": false,
+              "button2": "",
+              "button2_link": "",
+              "button2_highlight": false,
+              "mobile_image_crop": "none",
+              "mobile_text_below_image": true,
+              "mobile_text_color": ""
+            }
+          },
+          "product-details-template-3": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 20,
+              "divider_border": false
+            }
+          },
+          "product-details-template-2": {
+            "type": "image_gallery",
+            "settings": {
+              "wide_display": true,
+              "detail_image_1": "",
+              "detail_image_2": "",
+              "detail_image_3": ""
+            }
+          },
+          "product-details-template-5": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 20,
+              "divider_border": false
+            }
+          },
+          "product-details-template-6": {
+            "type": "image_with_text",
+            "settings": {
+              "layout": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "left",
+              "image": "",
+              "image_crop": "none",
+              "title": "Image with text",
+              "text": "<p>This is an <strong>Image with text<\/strong> content block that you can add to your product page by using&nbsp;the <em>product.details<\/em> template included in the Turbo theme. Use some high impact images to promote cross-sales, or try a team photo and link to your About page; you can even insert an animated gif file!<\/p>",
+              "link": "",
+              "button_label": ""
+            }
+          },
+          "product-details-template-7": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 20,
+              "divider_border": false
+            }
+          },
+          "1489729879828": {
+            "type": "image_with_text_overlay",
+            "settings": {
+              "wide_display": true,
+              "image": "",
+              "pretext": "",
+              "title": "Pump up the volume",
+              "subtitle": "<p>Turbo is perfect for high volume <strong>Shopify Plus<\/strong> shops!<br>But it's also an excellent choice for any size shop that's looking for an edge.<\/p>",
+              "caption_background": true,
+              "caption_background_transparency": false,
+              "text_position": "right",
+              "text_align": "center",
+              "button1": "Learn more",
+              "button1_link": "shopify:\/\/pages\/theme-info",
+              "button1_highlight": false,
+              "button2": "",
+              "button2_link": "",
+              "button2_highlight": false,
+              "mobile_image_crop": "none",
+              "mobile_text_below_image": true,
+              "mobile_text_color": ""
+            }
+          },
+          "1566233740874": {
+            "type": "recommended_products",
+            "settings": {}
+          }
+        },
+        "block_order": [
+          "1489686557602",
+          "product-details-template-0",
+          "product-details-template-1",
+          "product-details-template-4",
+          "product-details-template-3",
+          "product-details-template-2",
+          "product-details-template-5",
+          "product-details-template-6",
+          "product-details-template-7",
+          "1489729879828",
+          "1566233740874"
+        ],
+        "settings": {
+          "product_thumbs": true,
+          "gallery_arrows": false,
+          "enable_product_lightbox": true,
+          "activate_zoom": false,
+          "slideshow_speed": 0,
+          "slideshow_animation": "slide",
+          "thumbnail_position": "left-thumbnails",
+          "enable_thumbnail_slider": true,
+          "display_vendor": false,
+          "product_breadcrumb": true,
+          "display_sku": false,
+          "display_collections": false,
+          "display_type": false,
+          "display_tags": false,
+          "display_social_buttons": true,
+          "product_description_position": "top",
+          "display_savings": true,
+          "show_payment_button": false,
+          "product_images_position": "left",
+          "set_product_height": false,
+          "product_height": 500,
+          "video_looping": false,
+          "enable_shopify_product_badges": false,
+          "enable_reviews_in_description": false
+        }
+      },
+      "mega-menu-1": {
+        "type": "mega-menu-1",
+        "settings": {
+          "parent": ""
+        }
+      },
+      "mega-menu-2": {
+        "type": "mega-menu-2",
+        "blocks": {
+          "1600903962328": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "",
+              "image_top": "",
+              "image_caption_top": "",
+              "image_link_top": "",
+              "menu_1": "",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_bottom": "",
+              "image_caption_bottom": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          }
+        },
+        "block_order": [
+          "1600903962328"
+        ],
+        "settings": {
+          "parent": ""
+        }
+      },
+      "page-details-template": {
+        "type": "page-details-template",
+        "blocks": {
+          "page-details-template-0": {
+            "type": "image_with_text_overlay",
+            "settings": {
+              "wide_display": true,
+              "image": "",
+              "pretext": "",
+              "title": "This is our Story",
+              "subtitle": "<p>Create a custom&nbsp;page with this flexible template!<\/p>",
+              "caption_background": false,
+              "caption_background_transparency": false,
+              "text_position": "left",
+              "text_align": "center",
+              "button1": "",
+              "button1_link": "",
+              "button1_highlight": false,
+              "button2": "",
+              "button2_link": "",
+              "button2_highlight": false,
+              "mobile_image_crop": "none",
+              "mobile_text_below_image": true,
+              "mobile_text_color": ""
+            }
+          },
+          "1501016553263": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 15,
+              "divider_border": false
+            }
+          },
+          "page-details-template-2": {
+            "type": "rich_text_and_image",
+            "settings": {
+              "image": "",
+              "title": "Page details",
+              "content": "<p>This page is using the \"<em><strong>page.details<\/strong><\/em>\" template, which contains many content options similar to those available on the home page. For example, you&nbsp;can add&nbsp;an image gallery,&nbsp;contact form, Google map, quote, image with text overlay and even insert another page! For full instructions on how to set up and use this template, please see our <a href=\"https:\/\/help.outofthesandbox.com\/hc\/en-us\/articles\/115008759968\" title=\"https:\/\/help.outofthesandbox.com\/hc\/en-us\/articles\/115008759968\">Page Details support article<\/a>.<\/p>",
+              "text_size": "regular_text",
+              "text_alignment": "center",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1501016630432": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 10,
+              "divider_border": false
+            }
+          },
+          "page-details-template-16": {
+            "type": "image_gallery",
+            "settings": {
+              "wide_display": true,
+              "detail_image_1": "",
+              "detail_image_2": "",
+              "detail_image_3": ""
+            }
+          },
+          "1497389742291": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 15,
+              "divider_border": false
+            }
+          },
+          "page-details-template-18": {
+            "type": "quote",
+            "settings": {
+              "quote_text": "40% of online shoppers abandon a site that takes more than 3 seconds to load",
+              "quote_link": ""
+            }
+          },
+          "page-details-template-3": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 20,
+              "divider_border": false
+            }
+          },
+          "1497381780514": {
+            "type": "image_with_text_overlay",
+            "settings": {
+              "wide_display": true,
+              "image": "",
+              "pretext": "",
+              "title": "Rock. It. Out.",
+              "subtitle": "<p><\/p>\n<p><\/p>",
+              "caption_background": true,
+              "caption_background_transparency": false,
+              "text_position": "left",
+              "text_align": "left",
+              "button1": "",
+              "button1_link": "",
+              "button1_highlight": false,
+              "button2": "",
+              "button2_link": "",
+              "button2_highlight": false,
+              "mobile_image_crop": "none",
+              "mobile_text_below_image": true,
+              "mobile_text_color": ""
+            }
+          },
+          "1529683716556": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 25,
+              "divider_border": false
+            }
+          },
+          "page-details-template-7": {
+            "type": "image_with_text",
+            "settings": {
+              "layout": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "right",
+              "image": "",
+              "image_crop": "none",
+              "title": "Share your story",
+              "text": "<p>A great \"About\" or \"Our Story\" page helps builds trust between you and your customers. The more content you provide about you and your business, the more confident people will be when purchasing from your store. An interesting and authentic About page<a href=\"https:\/\/www.shopify.ca\/blog\/6109584-how-to-use-your-about-page-to-increase-ecommerce-sales\"> can even increase sales<\/a>, so spend time crafting a compelling one!<\/p>",
+              "link": "shopify:\/\/blogs\/news",
+              "button_label": "Read our blog"
+            }
+          },
+          "page-details-template-19": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 25,
+              "divider_border": false
+            }
+          },
+          "1497381672636": {
+            "type": "featured_collection",
+            "settings": {
+              "title": "New arrivals that we love",
+              "collection_description": false,
+              "collection": "",
+              "collection_style": "slider",
+              "products_per": 4,
+              "products_limit": 12
+            }
+          },
+          "page-details-template-11": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 20,
+              "divider_border": true
+            }
+          },
+          "1497389610735": {
+            "type": "image_with_text_overlay",
+            "settings": {
+              "wide_display": true,
+              "image": "",
+              "pretext": "",
+              "title": "",
+              "subtitle": "",
+              "caption_background": false,
+              "caption_background_transparency": false,
+              "text_position": "left",
+              "text_align": "left",
+              "button1": "",
+              "button1_link": "",
+              "button1_highlight": false,
+              "button2": "",
+              "button2_link": "",
+              "button2_highlight": false,
+              "mobile_image_crop": "none",
+              "mobile_text_below_image": true,
+              "mobile_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "page-details-template-0",
+          "1501016553263",
+          "page-details-template-2",
+          "1501016630432",
+          "page-details-template-16",
+          "1497389742291",
+          "page-details-template-18",
+          "page-details-template-3",
+          "1497381780514",
+          "1529683716556",
+          "page-details-template-7",
+          "page-details-template-19",
+          "1497381672636",
+          "page-details-template-11",
+          "1497389610735"
+        ],
+        "settings": {}
+      },
+      "page-team-template": {
+        "type": "page-team-template",
+        "blocks": {
+          "page-team-template-0": {
+            "type": "employee",
+            "settings": {
+              "image": "",
+              "title": "Austin Soto",
+              "job_title": "Founder and CEO",
+              "description": "<p>Entrepreneur&nbsp;hooked on design, tech and heavy metal.<\/p>",
+              "twitter": "Shopify"
+            }
+          },
+          "page-team-template-2": {
+            "type": "employee",
+            "settings": {
+              "image": "",
+              "title": "Monica Marshal",
+              "job_title": "Engineering Lead",
+              "description": "<p>Problem solver who loves anything from the 90s.&nbsp;<\/p>",
+              "twitter": "Shopify"
+            }
+          },
+          "page-team-template-1": {
+            "type": "employee",
+            "settings": {
+              "image": "",
+              "title": "Flora Ross",
+              "job_title": "Marketing Director",
+              "description": "<p>Business minded, can't resist classic rock.&nbsp;<\/p>",
+              "twitter": "Shopify"
+            }
+          },
+          "1541013667299": {
+            "type": "employee",
+            "settings": {
+              "image": "",
+              "title": "Camille Phillips",
+              "job_title": "Senior Developer",
+              "description": "<p>Usually coding, always listening to&nbsp;upbeat pop.<\/p>",
+              "twitter": "Shopify"
+            }
+          },
+          "1541013706623": {
+            "type": "employee",
+            "settings": {
+              "image": "",
+              "title": "Alvin Ford",
+              "job_title": "Product Specialist",
+              "description": "<p>Powered by&nbsp;research and lots of rock and roll.<\/p>",
+              "twitter": "Shopify"
+            }
+          },
+          "1541013726997": {
+            "type": "employee",
+            "settings": {
+              "image": "",
+              "title": "Sylvia Hart",
+              "job_title": "Retail Manager",
+              "description": "<p>Experience creator&nbsp;obsessed with everything indie.<\/p>",
+              "twitter": "Shopify"
+            }
+          },
+          "1541027823818": {
+            "type": "employee",
+            "settings": {
+              "image": "",
+              "title": "Lynne Romero",
+              "job_title": "Social Media Expert",
+              "description": "<p>Creative strategist, R&amp;B enthusiast.<\/p>",
+              "twitter": "Shopify"
+            }
+          },
+          "1541013742154": {
+            "type": "employee",
+            "settings": {
+              "image": "",
+              "title": "Lily",
+              "job_title": "Chief Dog",
+              "description": "<p>Loves neck scratches, milk bones and reggae.<\/p>",
+              "twitter": "lilypug"
+            }
+          }
+        },
+        "block_order": [
+          "page-team-template-0",
+          "page-team-template-2",
+          "page-team-template-1",
+          "1541013667299",
+          "1541013706623",
+          "1541013726997",
+          "1541027823818",
+          "1541013742154"
+        ],
+        "settings": {
+          "image": "",
+          "image_position": "right",
+          "title": "An amazing group of people are the heart and soul of this phenomenal brand!",
+          "text": "<p>(plus&nbsp;Lily, our office pug :))<\/p>",
+          "text_position": "center",
+          "employee_per_row": 4,
+          "member_color": "#ffffff",
+          "member_accent_color": "#1e1e1e",
+          "member_overlay_color": "#c79f5c"
+        }
+      },
+      "page-faq-template": {
+        "type": "page-faq-template",
+        "blocks": {
+          "1544709812154": {
+            "type": "Content",
+            "settings": {
+              "title": "When will my package arrive?",
+              "subtitle": "<p>Our standard shipping time is between 3-5 days from our warehouse based in Ostrava, Czech Republic.<\/p>\n<p><\/p>"
+            }
+          },
+          "page-faq-template-5": {
+            "type": "Content",
+            "settings": {
+              "title": "Do you provide warranty?",
+              "subtitle": "<p>Yes! We provide 2* year warranty for our mirrors. Please contact us at info@thespeculum.com if needed!<\/p>\n<p>The warranty does not cover any physical damage done to any part of the mirror.<\/p>\n<p>*4 years if additionally purchased<\/p>"
+            }
+          },
+          "1601250040863": {
+            "type": "Content",
+            "settings": {
+              "title": "Do you offer bulk discount?",
+              "subtitle": "<p>Yes! Please let us know at info@thespeculum.com and we shall craft a custom offer just for you!<\/p>"
+            }
+          },
+          "page-faq-template-1": {
+            "type": "Content",
+            "settings": {
+              "title": "What if I want to return a product?",
+              "subtitle": "<p>We offer a 14 day return guarantee for all our products. Contact us at info@thespeculum.com to receive instructions.<\/p>"
+            }
+          },
+          "page-faq-template-2": {
+            "type": "Content",
+            "settings": {
+              "title": "Is there anywhere I may view your products in person?",
+              "subtitle": "<p>Unfortunately, in order to keep being cost efficent and giving you the best prices, we have no intentions of opening up a storefront. <\/p>\n<p><\/p>\n<p>Nevertheless, please contact us if you need more photos of the products installed, we'll be glad to share!<\/p>"
+            }
+          },
+          "page-faq-template-3": {
+            "type": "Content",
+            "settings": {
+              "title": "What about instalation?",
+              "subtitle": "<p>Instalation of our products is very straight foward with all the needed information included in the packaging.<\/p>"
+            }
+          },
+          "page-faq-template-6": {
+            "type": "Content",
+            "settings": {
+              "title": "Do you deliver to ____",
+              "subtitle": "<p>We deliver our goods all over Europe with plans of an expansion in the future!<\/p>"
+            }
+          },
+          "1601249406469": {
+            "type": "Content",
+            "settings": {
+              "title": "Is my payment information secure?",
+              "subtitle": "<p>The Speculum utilizes the industry standard in encrypting any information you type in our website. From checkout to order confirmation, your information is secure. The payment gateway is secured by world-renowed providers: Stripe or Paypal<\/p>"
+            }
+          },
+          "1601249712943": {
+            "type": "Content",
+            "settings": {
+              "title": "What payment options do you accept?",
+              "subtitle": "<p>We accept all major credit card cards including Visa, MasterCard,&nbsp;American Express + Apple pay &amp; Paypal<\/p>"
+            }
+          },
+          "1601249886533": {
+            "type": "Content",
+            "settings": {
+              "title": "What is your cancellation policy?",
+              "subtitle": "<p>Cancellation is possible up to 48 hours (workdays) of placing the order. After 48 hours certain fees apply, please visit <a href=\"\/pages\/warranty\" title=\"Returns\">this page<\/a> for more information.<\/p>"
+            }
+          },
+          "1601250145086": {
+            "type": "Content",
+            "settings": {
+              "title": "What if my order arrives damaged?",
+              "subtitle": "<p>If by some chance, your item was damaged during transit, please contact us at info@thespeculum.com within&nbsp; the next 30 hours upon arrival. The Speculum cannot accept responsibility for any damages or missing parts not reported within this timeframe.<\/p>"
+            }
+          },
+          "1601250288607": {
+            "type": "Content",
+            "settings": {
+              "title": "Can I track my order?",
+              "subtitle": "<p>Yes! Simply insert the code we sent you to <a href=\"\/pages\/track-your-order\" title=\"Track Your Order\">this page.<\/a><\/p>"
+            }
+          },
+          "1601311485643": {
+            "type": "Content",
+            "settings": {
+              "title": "Do you offer different sizes\/designs of the mirrors?",
+              "subtitle": "<p>We plan on expanding our product line very soon, please sign up to our newsletter to stay updated!<\/p>\n<p><strong>&nbsp;<\/strong><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1544709812154",
+          "page-faq-template-5",
+          "1601250040863",
+          "page-faq-template-1",
+          "page-faq-template-2",
+          "page-faq-template-3",
+          "page-faq-template-6",
+          "1601249406469",
+          "1601249712943",
+          "1601249886533",
+          "1601250145086",
+          "1601250288607",
+          "1601311485643"
+        ],
+        "settings": {
+          "wide_display": true,
+          "image": "",
+          "pretext": "",
+          "title": "FAQs",
+          "subtitle": "",
+          "caption_background": false,
+          "caption_background_transparency": false,
+          "text_position": "center",
+          "text_align": "right",
+          "button1": "",
+          "button1_link": "",
+          "button1_highlight": false,
+          "button2": "",
+          "button2_link": "",
+          "button2_highlight": false
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": false,
+          "product_recommendations_style": "grid",
+          "product_recommendations_heading": "You may also like",
+          "products_per_row": 4,
+          "recommended_products_limit": 2
+        }
+      },
+      "password-template": {
+        "type": "password-template",
+        "settings": {
+          "custom_logo": "",
+          "logo_width": 280,
+          "custom_pagework_page_bg": true,
+          "password-page-background": "",
+          "pagework_page_bg_stretched": true,
+          "password_message": "",
+          "show_newsletter": true,
+          "password_text": "",
+          "social_media": true
+        }
+      },
+      "1600386792679": {
+        "type": "text-columns-with-images",
+        "blocks": {
+          "1600386792679-1": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/dual.png",
+              "title": "Dual-spectrum LED light",
+              "heading_size": "regular_text",
+              "text": "<p>https:\/\/thespeculum.com\/products\/speculum-smart-mirror\/#section3<\/p>",
+              "button_label": "",
+              "button_link": "",
+              "align_text": "center",
+              "border_style": "none"
+            }
+          },
+          "1600386792679-0": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/btn.png",
+              "title": "Touch button",
+              "heading_size": "regular_text",
+              "text": "<p>https:\/\/thespeculum.com\/products\/speculum-smart-mirror\/#section4<\/p>",
+              "button_label": "",
+              "button_link": "",
+              "align_text": "center",
+              "border_style": "none"
+            }
+          },
+          "1600425529157": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/ezgif.com-crop.jpg",
+              "title": "non-shatterable glass",
+              "heading_size": "regular_text",
+              "text": "<p>https:\/\/thespeculum.com\/products\/speculum-smart-mirror\/#section5<\/p>",
+              "button_label": "",
+              "button_link": "",
+              "align_text": "center",
+              "border_style": "none"
+            }
+          }
+        },
+        "block_order": [
+          "1600386792679-1",
+          "1600386792679-0",
+          "1600425529157"
+        ],
+        "settings": {
+          "title": "Features"
+        }
+      },
+      "1600426147247": {
+        "type": "text-columns-with-images",
+        "blocks": {
+          "1600426147247-0": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/gud_fotka_displeeje.png",
+              "title": "Invisible display",
+              "heading_size": "regular_text",
+              "text": "<p>https:\/\/thespeculum.com\/products\/speculum-smart-mirror\/#section1<\/p>",
+              "button_label": "",
+              "button_link": "",
+              "align_text": "center",
+              "border_style": "none"
+            }
+          },
+          "1600426147247-1": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/headcut.png",
+              "title": "Demister",
+              "heading_size": "regular_text",
+              "text": "<p>https:\/\/thespeculum.com\/products\/speculum-smart-mirror\/#section2<\/p>",
+              "button_label": "",
+              "button_link": "",
+              "align_text": "center",
+              "border_style": "none"
+            }
+          },
+          "1600426165648": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/zrcadlicko.png",
+              "title": "Modern design",
+              "heading_size": "regular_text",
+              "text": "<p>https:\/\/thespeculum.com\/products\/speculum-smart-mirror\/#gallery<\/p>",
+              "button_label": "",
+              "button_link": "",
+              "align_text": "center",
+              "border_style": "none"
+            }
+          }
+        },
+        "block_order": [
+          "1600426147247-0",
+          "1600426147247-1",
+          "1600426165648"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "1601064529535": {
+        "type": "newsletter",
+        "settings": {
+          "wide_display": true,
+          "display_first_name": false,
+          "display_last_name": false,
+          "newsletter_title": "Sign up to our newsletter",
+          "newsletter_text": "<p>Stay up to date on our releases and promotions<\/p>",
+          "newsletter_section_text_align": "center",
+          "image": ""
+        }
+      },
+      "1601152295590": {
+        "type": "featured-text",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Copy_of_3-5_DAY_DELIVERY_6578ad22-33ab-4835-b87b-e134b5026a92.png",
+          "title": "",
+          "content": "",
+          "button_label": "",
+          "button_link": "",
+          "text_size": "featured_text",
+          "text_alignment": "center"
+        }
+      },
+      "1606126185887": {
+        "type": "testimonial",
+        "blocks": {
+          "1606126185887-0": {
+            "type": "image",
+            "settings": {
+              "title": "Added the touch I was looking for",
+              "testimonial": "<p>The Speculum mirrors get lot of attention from the guests at my hotel and I always happily recommend them.<\/p>",
+              "name": "John Sterling",
+              "store_name": "Hotel owner",
+              "link": "",
+              "text_position": "left",
+              "text_align": "left",
+              "image": "",
+              "darken_bg": false
+            }
+          },
+          "1606126185887-1": {
+            "type": "image",
+            "settings": {
+              "title": "Stunning",
+              "testimonial": "<p>Absolutely love the mirror, looks stunning at night! Attracts many curious looks as not many people have seen such a mirror before. Already bought one more as a gift for my parents.<\/p>",
+              "name": "Silvia Sánchez",
+              "store_name": "",
+              "link": "",
+              "text_position": "left",
+              "text_align": "left",
+              "image": "",
+              "darken_bg": true
+            }
+          },
+          "1606676510592": {
+            "type": "image",
+            "settings": {
+              "title": "A great fit",
+              "testimonial": "<p>A great fit for my newly renovated bathroom, adds a futuristic feel to it. While the looks are great, the smart features are what sold me. Came in nicely packaged with all the needed instructions inside. Shipped to Germany without any problems. <\/p>",
+              "name": "Paul Engel",
+              "store_name": "",
+              "link": "",
+              "text_position": "center",
+              "text_align": "center",
+              "image": "",
+              "darken_bg": false
+            }
+          },
+          "1606676671377": {
+            "type": "image",
+            "settings": {
+              "title": "Time-saving",
+              "testimonial": "<p>Since I got The Speculum mirror my time spent in the bathroom has noticeably lowered. I don't loose the track of time so easily and thanks to the demister I don't have to waste any time wiping steam off the mirror. Never though a mirror could save my time.<\/p>",
+              "name": "Elisabeth Boucher",
+              "store_name": "",
+              "link": "",
+              "text_position": "center",
+              "text_align": "center",
+              "image": "",
+              "darken_bg": false
+            }
+          },
+          "1606676701768": {
+            "type": "image",
+            "settings": {
+              "title": "Helpful customer support",
+              "testimonial": "<p>I was looking to add something unique to my apartment and then facebook showed me The Speculum. I have never seen a smart mirror before and was intrigued. Before buying I contacted the support team about shipping details. They were very helpful and the whole process went smoothly. Very satisfied with my purchase.<\/p>",
+              "name": "Rick Walker",
+              "store_name": "",
+              "link": "",
+              "text_position": "center",
+              "text_align": "center",
+              "image": "",
+              "darken_bg": false
+            }
+          },
+          "1606676754760": {
+            "type": "image",
+            "settings": {
+              "title": "Avant-garde",
+              "testimonial": "<p>I use The Speculum mirrors in my modern bathroom designs as they disrupt the status quo and create a distinctive ambience. My clients are always happy with them.<\/p>",
+              "name": "Bill Haas",
+              "store_name": "Designer",
+              "link": "",
+              "text_position": "center",
+              "text_align": "center",
+              "image": "",
+              "darken_bg": false
+            }
+          }
+        },
+        "block_order": [
+          "1606126185887-0",
+          "1606126185887-1",
+          "1606676510592",
+          "1606676671377",
+          "1606676701768",
+          "1606676754760"
+        ],
+        "settings": {
+          "wide_display": true,
+          "testimonial_text_animation": "fadeIn",
+          "testimonial_speed": 5
+        }
+      },
+      "image-text": {
+        "type": "image-text",
+        "blocks": {
+          "1606399718869": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smart_mirror_wifi_display_turned_off.jpg",
+              "image_crop": "none",
+              "title": "Invisible display",
+              "text": "<p>custom-display-list<\/p>",
+              "button_label": "← Click  to Turn the display on",
+              "link": "",
+              "bg_color": "",
+              "text_color": ""
+            }
+          },
+          "1606399727144": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/antifog2.png",
+              "image_crop": "none",
+              "title": "Demister",
+              "text": "<p>Do not waste any more time trying to wipe your mirror after a shower, one touch and the mirror is <span style=\"text-decoration: underline;\"><strong>mist free<\/strong><\/span>.<\/p>",
+              "button_label": "← click to Defog the mirror",
+              "link": "",
+              "bg_color": "",
+              "text_color": ""
+            }
+          },
+          "1606399737407": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smart_mirror_without_light_1.jpg",
+              "image_crop": "center",
+              "title": "Led lights",
+              "text": "<p>The Speculum Smart mirror is backlit with <span style=\"text-decoration: underline;\"><strong>high quality&nbsp; LED<\/strong><\/span> lights with <span style=\"text-decoration: underline;\"><strong>built-in control of the color temperature<\/strong><\/span>. (cold\/warm)<\/p>\n<p>Our lights are dust and water <span style=\"text-decoration: underline;\"><strong>resistant<\/strong><\/span> making them suitable for any environment.<\/p>",
+              "button_label": "← click to Switch the lights on",
+              "link": "",
+              "bg_color": "",
+              "text_color": ""
+            }
+          },
+          "1606399739771": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/touch_button_smart_mirror.jpg",
+              "image_crop": "none",
+              "title": "Touch button",
+              "text": "<p>custom-button-list<\/p>",
+              "button_label": "← click to Try the button",
+              "link": "",
+              "bg_color": "",
+              "text_color": ""
+            }
+          },
+          "1606399741685": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled-1_2262e577-d602-4dae-af50-cd7980504ba1.png",
+              "image_crop": "none",
+              "title": "Top quality glass",
+              "text": "<p>All our mirrors are silver ion plated and tempered to provide the highest possible <strong><span style=\"text-decoration: underline;\">shock and explosion resistance<\/span>&nbsp;<\/strong>and the clearest possible reflection. Our mirror will not shatter into shards when damaged, similar to a car windshield.<\/p>\n<p>The entire mirror is<span style=\"text-decoration: underline;\"><strong> lead-free<\/strong><\/span> and made without the use of any harmful substances making it <span style=\"text-decoration: underline;\"><strong>nature-friendly.<\/strong><\/span><\/p>",
+              "button_label": "",
+              "link": "",
+              "bg_color": "",
+              "text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "1606399718869",
+          "1606399727144",
+          "1606399737407",
+          "1606399739771",
+          "1606399741685"
+        ],
+        "settings": {
+          "frontpage_grid_style": false,
+          "featured_links_per_row": "1",
+          "frontpage_text_align": "left",
+          "frontpage_image_position": "right"
+        }
+      },
+      "text-columns-with-images": {
+        "type": "text-columns-with-images",
+        "blocks": {
+          "1606400116967": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Group_10.png",
+              "title": "Antifog",
+              "heading_size": "regular_text",
+              "text": "<p>https:\/\/thespeculum.com\/products\/speculum-smart-mirror\/#section2<\/p>",
+              "button_label": "",
+              "button_link": "",
+              "align_text": "center",
+              "border_style": "box"
+            }
+          },
+          "1606400119291": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Group_7.png",
+              "title": "LED LIGHT",
+              "heading_size": "regular_text",
+              "text": "<p>https:\/\/thespeculum.com\/products\/speculum-smart-mirror\/#section3<\/p>",
+              "button_label": "",
+              "button_link": "",
+              "align_text": "center",
+              "border_style": "box"
+            }
+          },
+          "1606400121022": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Group_8.png",
+              "title": "Touch control",
+              "heading_size": "regular_text",
+              "text": "<p>https:\/\/thespeculum.com\/products\/speculum-smart-mirror\/#section4<\/p>",
+              "button_label": "",
+              "button_link": "",
+              "align_text": "center",
+              "border_style": "box"
+            }
+          },
+          "1606400122815": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Group_9.png",
+              "title": "Invisible WiFi display",
+              "heading_size": "regular_text",
+              "text": "<p>https:\/\/thespeculum.com\/products\/speculum-smart-mirror\/#section1<\/p>",
+              "button_label": "",
+              "button_link": "",
+              "align_text": "center",
+              "border_style": "box"
+            }
+          }
+        },
+        "block_order": [
+          "1606400116967",
+          "1606400119291",
+          "1606400121022",
+          "1606400122815"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "testimonial": {
+        "type": "testimonial",
+        "settings": {
+          "wide_display": true,
+          "testimonial_text_animation": "fadeInDown",
+          "testimonial_speed": 4
+        }
+      },
+      "video": {
+        "type": "video",
+        "settings": {
+          "wide_display": true,
+          "aspect_ratio": "16:9",
+          "autoplay": true,
+          "autoloop": true,
+          "mute_video": true,
+          "show_controls": true,
+          "video_dark_overlay": true,
+          "iframe_video": "https:\/\/youtu.be\/LAdnd_iYHTo",
+          "html5_video": "",
+          "image": "",
+          "display_text_over_video": false,
+          "pretext": "<p>The Speculum<\/p>",
+          "title": "Crafted to perfection",
+          "subtitle": "",
+          "caption_background": false,
+          "caption_background_transparency": false,
+          "button1_label": "",
+          "button1_link": "",
+          "button1_highlight": false,
+          "button2_label": "",
+          "button2_link": "",
+          "button2_highlight": false,
+          "text_position": "center",
+          "text_align": "left",
+          "mobile_text_below_image": true,
+          "mobile_text_color": ""
+        }
+      },
+      "gallery": {
+        "type": "gallery",
+        "blocks": {
+          "1606401730678": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/nine-pain.png"
+            }
+          },
+          "1606401738873": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/niceCoal.png"
+            }
+          },
+          "1606401746786": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/DSC_0061d.png"
+            }
+          },
+          "1609754494812": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/angl-min.png"
+            }
+          },
+          "1609754527598": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/junifer-min.png"
+            }
+          },
+          "1609754536402": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/mambard-min.png"
+            }
+          },
+          "1609754519513": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/jolinia-min_fb5ff645-d749-4c29-bb4a-9e3174ea965c.png"
+            }
+          }
+        },
+        "block_order": [
+          "1606401730678",
+          "1606401738873",
+          "1606401746786",
+          "1609754494812",
+          "1609754527598",
+          "1609754536402",
+          "1609754519513"
+        ],
+        "settings": {
+          "wide_display": false,
+          "title": "inspiration",
+          "gallery_type": "horizontal",
+          "grid-size": 2,
+          "enable_lightbox": true
+        }
+      },
+      "custom-html": {
+        "type": "custom-html",
+        "settings": {
+          "custom_html": "<div id=\"technical-specifications\" class=\"custom-smaller container\">\n    <h1>Technical specifications<\/h1>\n    <div class=\"item\">\n    <b>Dimensions<\/b>\n    <span>80x60 cm <\/span>\n<\/div>\n<div class=\"item\">\n    <b>Thickness including the instalation parts<\/b>\n    <span> 4,4 cm <\/span>\n<\/div>\n<div class=\"item\">\n    <b> Glass panel thickness <\/b>\n    <span> 5 mm <\/span>\n<\/div>\n\n<div class=\"item\">\n    <b> Weight <\/b>\n    <span> 9,8 kg  <\/span>\n<\/div>\n\n<div class=\"item\">\n    <b>Power consumption<\/b>\n    <span> 3 W LED\/50W Demister\/2W Display <\/span>\n<\/div>\n\n<div class=\"item\">\n    <b> Voltage <\/b>\n    <span>110-240V <\/span>\n<\/div>\n\n<div class=\"item\">\n    <b> Protection rating <\/b>\n    <span>IP54<\/span>\n<\/div>\n\n<div class=\"item\">\n    <b> Certificates <\/b>\n    <span> CE, RoHS, FCC <\/span>\n<\/div>\n\n<div class=\"item\">\n    <b> Warranty <\/b>\n    <span>2 years\/4 years if purchased <\/span>\n<\/div>\n<\/div>"
+        }
+      },
+      "product-links": {
+        "type": "product-links",
+        "settings": {}
+      },
+      "1609925777181": {
+        "type": "custom-html",
+        "settings": {
+          "custom_html": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }<\/style>\n<div class=\"embed-container\" width=\"100%\">\n<iframe width=\"100%\" height=\"600px\" class=\"lazyload\" data-src=\"https:\/\/www.youtube.com\/embed\/LAdnd_iYHTo?autoplay=1&loop=1&mute=1&showinfo=0&controls=0&modestbranding=1&rel=0\" frameborder=\"none\"><\/iframe>\n          <\/div>"
+        }
+      },
+      "custom-features-icons": {
+        "type": "custom-features-icons",
+        "settings": {}
+      }
+    },
+    "content_for_index": [
+      "1488497250346",
+      "1600386792679",
+      "1600426147247",
+      "1609925777181",
+      "1489525208814",
+      "1606126185887",
+      "1601152295590",
+      "1601064529535"
+    ]
+  }
+}

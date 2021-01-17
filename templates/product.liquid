@@ -1,0 +1,39 @@
+{% comment %}
+  The contents of the product.liquid template can be found in /sections/product-template.liquid
+{% endcomment %}
+
+{% section 'product-template' %}
+{% section 'product-recommendations' %}
+
+{% section 'custom-features-icons' %}
+
+{% section 'image-text' %}
+{% section 'video' %}
+
+{% section 'product-links' %}
+
+{% section 'gallery' %}
+
+<h1 class="center testimonial-heading">What our customers say</h1>
+<div id="looxReviews" data-product-id="{{product.id}}" class="loox-reviews-default">{{ product.metafields.loox.reviews }}</div>
+
+<button onclick="scrollToTop()" class="btn-jump-up">
+  Back to the top
+</button>
+
+{% section 'custom-html' %}
+
+{%comment%}
+  {% section 'technical-specifications' %}
+{%endcomment%}
+
+{% render 'product__structured-data' %}
+
+<script>
+  function scrollToTop() {
+    document.documentElement.scrollTo({
+      top: 0,
+      behavior: "smooth"
+    })
+  }
+</script>
