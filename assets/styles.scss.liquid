@@ -703,12 +703,11 @@ img[data-sizes="100vw"] {
     font-size:20px;
     transform: rotate(60deg);
   }
-
-  &:hover{
-    .small-overlay, .hover-me, img.hide-on-hover{
-      opacity:0;
-    }
-  }
+  // &:hover{
+  //   .small-overlay, .hover-me, img.hide-on-hover{
+  //     opacity:0;
+  //   }
+  // }
 }
 
 .image-element__wrap img {
@@ -8948,7 +8947,7 @@ http://flickity.metafizzy.co
   width: 32px;
   border: none;
   background: white;
-  background: hsla(0, 0%, 100%, 0.75);
+  background: rgba(30, 30, 30, 0.8);
   cursor: pointer;
   border-radius: 0;
   height: auto;
@@ -8957,7 +8956,7 @@ http://flickity.metafizzy.co
 }
 
 .flickity-prev-next-button:hover {
-  background: white;
+  background: rgba(100, 100, 100, 0.8);
   border: none;
 }
 
@@ -9001,7 +9000,7 @@ http://flickity.metafizzy.co
 }
 
 .flickity-prev-next-button .arrow {
-  fill: {{ settings.arrow_color }};
+  fill: #ffffff;
 }
 
 /* color & size if no SVG - IE8 and Android 2.3 */
@@ -12112,6 +12111,14 @@ input[type="button"].highlight-false--dark {
       padding: 2em 0;
     }
   }
+  button.mobile-feature-button{
+    display:none;
+    margin-bottom:16px;
+
+    @include respond-to('small-down') {
+      display:block;
+    }
+  }
 
   {% assign image_text_background_alpha = settings.featured_links_background | color_extract: 'alpha' %}
 
@@ -12862,7 +12869,11 @@ h1, h1 a, h2, h2 a, h3, h3 a, h4, h4 a, h5, h5 a, h6, h6 a, #nav li a, div.title
       font-weight:bold;
     }
   }
+  @include respond-to('small-down'){
+      overflow-x:scroll;
+  }
 }
+
 .bg-171717{
   background:linear-gradient(180deg, #171717,#0f0f0f);
 }
@@ -13069,4 +13080,12 @@ input.apple-switch:checked:after {
   margin-top:32px;
   margin-left:auto;
   margin-right:auto;
+}
+// Loox reviews
+.loox-rating span {
+  display:none;
+
+  &.loaded{
+    display: inline;
+  }
 }

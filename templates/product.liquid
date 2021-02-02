@@ -14,7 +14,7 @@
 
 {% section 'gallery' %}
 
-<h1 class="center testimonial-heading">What our customers say</h1>
+<h1 class="center testimonial-heading" id="ourReviews">What our customers say</h1>
 <div id="looxReviews" data-product-id="{{product.id}}" class="loox-reviews-default">{{ product.metafields.loox.reviews }}</div>
 
 <button onclick="scrollToTop()" class="btn-jump-up">
@@ -22,10 +22,6 @@
 </button>
 
 {% section 'custom-html' %}
-
-{%comment%}
-  {% section 'technical-specifications' %}
-{%endcomment%}
 
 {% render 'product__structured-data' %}
 

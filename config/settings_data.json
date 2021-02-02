@@ -736,7 +736,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "promo_text": "<p>33% OFF NEW YEAR SALE<\/p>",
+          "promo_text": "<p>UP TO 33% OFF NEW YEAR SALE + free shipping<\/p>",
           "social_icons_header": true,
           "phone_number": "+420 776 683 636",
           "top_bar_menu": "",
@@ -879,7 +879,7 @@
           "1601417832487": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/nine-pain.png",
+              "image": "shopify:\/\/shop_images\/IMG_1583.JPG",
               "pretext": "",
               "title": "Buying more than one?",
               "subtitle": "<p>Contact us and we will craft a discounted offer just for you<\/p>",
@@ -966,9 +966,9 @@
         "type": "product-template",
         "settings": {
           "product_thumbs": true,
-          "gallery_arrows": false,
-          "enable_product_lightbox": true,
-          "activate_zoom": true,
+          "gallery_arrows": true,
+          "enable_product_lightbox": false,
+          "activate_zoom": false,
           "slideshow_speed": 0,
           "slideshow_animation": "slide",
           "thumbnail_position": "bottom",
@@ -984,8 +984,8 @@
           "display_savings": true,
           "show_payment_button": true,
           "product_images_position": "left",
-          "set_product_height": false,
-          "product_height": 500,
+          "set_product_height": true,
+          "product_height": 600,
           "video_looping": true,
           "enable_shopify_product_badges": false,
           "review_position": "below_gallery",
@@ -2009,7 +2009,7 @@
             "type": "Content",
             "settings": {
               "title": "What is your cancellation policy?",
-              "subtitle": "<p>Cancellation is possible up to 48 hours (workdays) of placing the order. After 48 hours certain fees apply, please visit <a href=\"\/pages\/warranty\" title=\"Returns\">this page<\/a> for more information.<\/p>"
+              "subtitle": "<p>Cancellation is possible up to 48 hours (workdays) of placing the order. After 48 hours a cancellation is still possible but certain fees apply, please visit <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">this page<\/a> for more information.<\/p>"
             }
           },
           "1601250145086": {
@@ -2023,7 +2023,7 @@
             "type": "Content",
             "settings": {
               "title": "Can I track my order?",
-              "subtitle": "<p>Yes! Simply insert the code we sent you to <a href=\"\/pages\/track-your-order\" title=\"Track Your Order\">this page.<\/a><\/p>"
+              "subtitle": "<p>Yes! Simply insert the code we sent you to <a href=\"https:\/\/speculum.aftership.com\/?page-name=tracking-page\" title=\"https:\/\/speculum.aftership.com\/?page-name=tracking-page\">this page.<\/a><\/p>"
             }
           },
           "1601311485643": {
@@ -2098,8 +2098,8 @@
             "type": "text_block",
             "settings": {
               "enable_image": true,
-              "image": "shopify:\/\/shop_images\/dual.png",
-              "title": "Dual-spectrum LED light",
+              "image": "shopify:\/\/shop_images\/thespeculum-with-light.jpg",
+              "title": "high quality LED light",
               "heading_size": "regular_text",
               "text": "<p>https:\/\/thespeculum.com\/products\/speculum-smart-mirror\/#section3<\/p>",
               "button_label": "",
@@ -2336,7 +2336,11 @@
               "image": "shopify:\/\/shop_images\/smart_mirror_wifi_display_turned_off.jpg",
               "image_crop": "none",
               "title": "Invisible display",
-              "text": "<p>custom-display-list<\/p>",
+              "text": "",
+              "allow_textarea": true,
+              "textarea": "An inteligent wifi display with all the crucial information for the day. Can be turned off without leaving any trails\n                     thus making him invisible if needed. Customized and\n                     operated through a dedicated mobile app.\n                     <b>It contains:<\/b>\n                     <ul class=\"image-text-list\">\n                        <li>\n                           graphically shown weather forecast in your location\n                        <\/li>\n                        <li>outdoor and indoor temperature, humidity<\/li>\n                        <li>digital clock and the current date<\/li>\n                     <\/ul>",
+              "allow_dual_text": false,
+              "dual_text": "<p>80x60cm mirror text<\/p>",
               "button_label": "← Click  to Turn the display on",
               "link": "",
               "bg_color": "",
@@ -2349,7 +2353,11 @@
               "image": "shopify:\/\/shop_images\/antifog2.png",
               "image_crop": "none",
               "title": "Demister",
-              "text": "<p>Do not waste any more time trying to wipe your mirror after a shower, one touch and the mirror is <span style=\"text-decoration: underline;\"><strong>mist free<\/strong><\/span>.<\/p>",
+              "text": "<p>Do not waste any more time trying to wipe your mirror after a shower, one touch before showering and the mirror is <span style=\"text-decoration: underline;\"><strong>mist free<\/strong><\/span>.<\/p>\n<p><\/p>\n<p>The demister can also serve as a <span style=\"text-decoration: underline;\"><strong>heater<\/strong><\/span> if needed! Simply leave it on long enough and it will help warm your room up!<\/p>\n<p>(heating on all mirrors except the 80x60 model)<\/p>\n<p><\/p>",
+              "allow_textarea": false,
+              "textarea": "<b>Strong<\/b> <p>Paragraph<\/p> <i>Cursive<\/i> <ul>\n<li>item 1<\/li>\n<li>item 2<\/li>\n<\/ul>",
+              "allow_dual_text": true,
+              "dual_text": "<p>Do not waste any more time trying to wipe your mirror after a shower, one touch before showering and the mirror is&nbsp;<span style=\"text-decoration: underline;\"><strong>mist free<\/strong><\/span>.<\/p>\n<p><\/p>\n<p>The demister can also serve as a <span style=\"text-decoration: underline;\"><strong>heater<\/strong><\/span> if needed! (not in the 80x60 variant)<\/p>",
               "button_label": "← click to Defog the mirror",
               "link": "",
               "bg_color": "",
@@ -2362,7 +2370,11 @@
               "image": "shopify:\/\/shop_images\/smart_mirror_without_light_1.jpg",
               "image_crop": "center",
               "title": "Led lights",
-              "text": "<p>The Speculum Smart mirror is backlit with <span style=\"text-decoration: underline;\"><strong>high quality&nbsp; LED<\/strong><\/span> lights with <span style=\"text-decoration: underline;\"><strong>built-in control of the color temperature<\/strong><\/span>. (cold\/warm)<\/p>\n<p>Our lights are dust and water <span style=\"text-decoration: underline;\"><strong>resistant<\/strong><\/span> making them suitable for any environment.<\/p>",
+              "text": "<p>The Speculum Smart mirror is backlit with <span style=\"text-decoration: underline;\"><strong>white<\/strong> <strong>hig<\/strong><strong>h quality LED<\/strong><\/span>&nbsp;lights with maximum energy efficiency and <span style=\"text-decoration: underline;\"><strong>cost saving<\/strong>.<\/span><\/p>\n<p><\/p>\n<p>Our lights are dust and water&nbsp;<span style=\"text-decoration: underline;\"><strong>resistant<\/strong><\/span>&nbsp;making them suitable for any environment.<\/p>",
+              "allow_textarea": false,
+              "textarea": "<b>Strong<\/b> <p>Paragraph<\/p> <i>Cursive<\/i> <ul>\n<li>item 1<\/li>\n<li>item 2<\/li>\n<\/ul>",
+              "allow_dual_text": true,
+              "dual_text": "<p><\/p>\n<p>The Speculum Smart mirror is backlit with <span style=\"text-decoration: underline;\"><strong>high quality&nbsp; LED<\/strong><\/span> lights with <span style=\"text-decoration: underline;\"><strong>built-in control of the color temperature - cold or warm<\/strong><\/span> <strong><em>(<\/em>6000k or 3000k<em>)<\/em><\/strong><\/p>\n<p>(color changing only on 80x60 model)<\/p>\n<p><\/p>\n<p><\/p>\n<p>Our lights are dust and water <span style=\"text-decoration: underline;\"><strong>resistant<\/strong><\/span> making them suitable for any environment.<\/p>",
               "button_label": "← click to Switch the lights on",
               "link": "",
               "bg_color": "",
@@ -2375,7 +2387,11 @@
               "image": "shopify:\/\/shop_images\/touch_button_smart_mirror.jpg",
               "image_crop": "none",
               "title": "Touch button",
-              "text": "<p>custom-button-list<\/p>",
+              "text": "",
+              "allow_textarea": true,
+              "textarea": "Quick and elegant control of all the functions.\n                     <ul class=\"image-text-list\">\n                        <li>Single touch to turn on the LED light<\/li>\n                        <li>Double touch to toggle WiFi display<\/li>\n                        <li>Hold the button to start the demister<\/li>\n                     <\/ul>",
+              "allow_dual_text": false,
+              "dual_text": "<p>80x60cm mirror text<\/p>",
               "button_label": "← click to Try the button",
               "link": "",
               "bg_color": "",
@@ -2389,6 +2405,10 @@
               "image_crop": "none",
               "title": "Top quality glass",
               "text": "<p>All our mirrors are silver ion plated and tempered to provide the highest possible <strong><span style=\"text-decoration: underline;\">shock and explosion resistance<\/span>&nbsp;<\/strong>and the clearest possible reflection. Our mirror will not shatter into shards when damaged, similar to a car windshield.<\/p>\n<p>The entire mirror is<span style=\"text-decoration: underline;\"><strong> lead-free<\/strong><\/span> and made without the use of any harmful substances making it <span style=\"text-decoration: underline;\"><strong>nature-friendly.<\/strong><\/span><\/p>",
+              "allow_textarea": false,
+              "textarea": "<b>Strong<\/b> <p>Paragraph<\/p> <i>Cursive<\/i> <ul>\n<li>item 1<\/li>\n<li>item 2<\/li>\n<\/ul>",
+              "allow_dual_text": false,
+              "dual_text": "<p>80x60cm mirror text<\/p>",
               "button_label": "",
               "link": "",
               "bg_color": "",
@@ -2525,19 +2545,13 @@
           "1606401730678": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/nine-pain.png"
-            }
-          },
-          "1606401738873": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/niceCoal.png"
+              "image": "shopify:\/\/shop_images\/marble_bathroom.jpg"
             }
           },
           "1606401746786": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/DSC_0061d.png"
+              "image": "shopify:\/\/shop_images\/smart_mirror_with_cactus.jpg"
             }
           },
           "1609754494812": {
@@ -2555,7 +2569,13 @@
           "1609754536402": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/mambard-min.png"
+              "image": "shopify:\/\/shop_images\/mambardak-min.jpg"
+            }
+          },
+          "1606401738873": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/niceCoal.png"
             }
           },
           "1609754519513": {
@@ -2567,11 +2587,11 @@
         },
         "block_order": [
           "1606401730678",
-          "1606401738873",
           "1606401746786",
           "1609754494812",
           "1609754527598",
           "1609754536402",
+          "1606401738873",
           "1609754519513"
         ],
         "settings": {
@@ -2585,7 +2605,7 @@
       "custom-html": {
         "type": "custom-html",
         "settings": {
-          "custom_html": "<div id=\"technical-specifications\" class=\"custom-smaller container\">\n    <h1>Technical specifications<\/h1>\n    <div class=\"item\">\n    <b>Dimensions<\/b>\n    <span>80x60 cm <\/span>\n<\/div>\n<div class=\"item\">\n    <b>Thickness including the instalation parts<\/b>\n    <span> 4,4 cm <\/span>\n<\/div>\n<div class=\"item\">\n    <b> Glass panel thickness <\/b>\n    <span> 5 mm <\/span>\n<\/div>\n\n<div class=\"item\">\n    <b> Weight <\/b>\n    <span> 9,8 kg  <\/span>\n<\/div>\n\n<div class=\"item\">\n    <b>Power consumption<\/b>\n    <span> 3 W LED\/50W Demister\/2W Display <\/span>\n<\/div>\n\n<div class=\"item\">\n    <b> Voltage <\/b>\n    <span>110-240V <\/span>\n<\/div>\n\n<div class=\"item\">\n    <b> Protection rating <\/b>\n    <span>IP54<\/span>\n<\/div>\n\n<div class=\"item\">\n    <b> Certificates <\/b>\n    <span> CE, RoHS, FCC <\/span>\n<\/div>\n\n<div class=\"item\">\n    <b> Warranty <\/b>\n    <span>2 years\/4 years if purchased <\/span>\n<\/div>\n<\/div>"
+          "custom_html": "<div id=\"technical-specifications\" class=\"custom-smaller container\">\n    <h1>Technical specifications<\/h1>\n    <table>\n   <tbody>\n      <tr>\n         <td>Dimensions<\/td>\n         <td>80x60 cm<\/td>\n         <td>60x60 cm<\/td>\n         <td>100x60 cm<\/td>\n         <td>120x60 cm<\/td>\n      <\/tr>\n      <tr>\n         <td>\n            <div>Thickness including the installation parts<\/div>\n         <\/td>\n         <td>4,4 cm<\/td>\n         <td>4,4 cm<\/td>\n         <td>4,4 cm<\/td>\n         <td>4,4 cm<\/td>\n      <\/tr>\n      <tr>\n         <td>\n            <div>Mirror thickness<\/div>\n         <\/td>\n         <td>5 mm<\/td>\n         <td>5 mm<\/td>\n         <td>5 mm<\/td>\n         <td>5 mm<\/td>\n      <\/tr>\n      <tr>\n         <td>Weight<\/td>\n         <td>9,8 kg<\/td>\n         <td>7.85 kg<\/td>\n         <td>11.95 kg<\/td>\n         <td>14.85 kg<\/td>\n      <\/tr>\n      <tr>\n         <td>\n            <div>Demister\/Heating system<\/div>\n         <\/td>\n         <td>50 W<\/td>\n         <td>200 W<\/td>\n         <td>350 W<\/td>\n         <td>500 W<\/td>\n      <\/tr>\n      <tr>\n         <td>\n            <div>LED lighting input power<\/div>\n         <\/td>\n         <td>3 W Dual Spectrum<\/td>\n         <td>10 W<\/td>\n         <td>13 W<\/td>\n         <td>15 W<\/td>\n      <\/tr>\n      <tr>\n         <td>\n            <div>Display input power<\/div>\n         <\/td>\n         <td>2 W<\/td>\n         <td>2 W<\/td>\n         <td>2 W<\/td>\n         <td>2 W<\/td>\n      <\/tr>\n      <tr>\n         <td>Voltage<\/td>\n         <td>110-240 V<\/td>\n         <td>110-240 V<\/td>\n         <td>110-240 V<\/td>\n         <td>110-240 V<\/td>\n      <\/tr>\n      <tr>\n         <td>\n            <div>Protection rating<\/div>\n         <\/td>\n         <td>IP54<\/td>\n         <td>IP54<\/td>\n         <td>IP54<\/td>\n         <td>IP54<\/td>\n      <\/tr>\n      <tr>\n         <td>Certificates<\/td>\n         <td>\n            <div>CE, RoHS, FCC<\/div>\n         <\/td>\n         <td>\n            <div>CE, RoHS, FCC<\/div>\n         <\/td>\n         <td>\n            <div>CE, RoHS, FCC<\/div>\n         <\/td>\n         <td>\n            <div>CE, RoHS, FCC<\/div>\n         <\/td>\n      <\/tr>\n      <tr>\n         <td>Regular warranty<\/td>\n         <td>2 years<\/td>\n         <td>2 years<\/td>\n         <td>2 years<\/td>\n         <td>2 years<\/td>\n      <\/tr>\n   <\/tbody>\n<\/table>\n\n<\/div>"
         }
       },
       "product-links": {

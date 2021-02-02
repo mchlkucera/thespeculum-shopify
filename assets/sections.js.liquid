@@ -1707,6 +1707,7 @@ var header = {
             }
 
           }
+
           // Close dropdown if click anywhere outside dropdown menu
           $('html').on('click', function(event) {
             if (!$(event.target).closest('.dropdown_container').length && !$(event.target).hasClass('url-deadlink')) {
@@ -1862,28 +1863,31 @@ var header = {
           var $dropdown = $(this).parents('.main-nav').find('[data-dropdown="' + $(this).data('dropdown-rel') + '"]')
         }
 
-        if ($dropdown.is(':visible') || $dropdown.attr('class') === undefined) {
-          $dropdown.hide();
-          $('body').removeClass('is-active');
-        } else {
-          $('.dropdown_container').hide();
-          if(!$(this).hasClass('cart-container')) {
-            $('.is-absolute').parent().removeClass('feature_image');
+          // if ($dropdown.is(':visible') || $dropdown.attr('class') === undefined) {
+          //   $('.dropdown_container').hide();
+
+          //   $('body').removeClass('is-active');
+          //   $dropdown.hide();
+          // } else {
+          //   $('.dropdown_container').show();
+
+          //   $('body').addClass('is-active'); // moved to 1880
+          //   if(!$(this).hasClass('cart-container')) {
+          //     $('.is-absolute').parent().removeClass('feature_image');
+          //   }
+          //   $dropdown.show();
+          // }
+
+          if ($dropdown.is(':visible')) {
+            e.stopPropagation();
+            return false;
           }
-          $dropdown.show();
-          $('body').addClass('is-active');
-          $('.mobile_nav').find('div').removeClass('open');
-        }
 
-        if ($dropdown.is(':visible')) {
-          e.stopPropagation();
-          return false;
-        }
       });
 
-      $('body').on("click", '.mobile_nav', function() {
-        $(this).find('div').toggleClass('open');
-      });
+      // $('body').on("click", '.mobile_nav', function() {
+      //   $(this).find('div').toggle('open');
+      // });
 
       //Toggle mini-cart with menu icon
       if(Shopify.theme_settings.cart_action != 'redirect_cart') {
@@ -2116,6 +2120,10 @@ var header = {
     $('.main-nav__wrapper.sticky_nav').remove();
   }
 }
+
+$('.mobile_nav').on('click', function(){
+  $('.dropdown_container').toggle();
+})
 
 /*============================================================================
   Map
