@@ -36,15 +36,15 @@ section.settings.frontpage_grid_style == false %}
 
                   <div class="image-holder">
 
-                     {% if forloop.index != 1 %}
+                     {% comment %}{% if forloop.index != 1 %}{% endif %}{% endcomment %}
                         {% render 'image-element', image: block.settings.image,
                         alt: block.settings.image.alt, stretch_width: true %}
-                     {% endif %}
 
                      {% if forloop.index == 1 %}
-                        <video class="lozad" autoplay muted loop playsinline>
+                        {{ 'displej-popis-min.png' | asset_url | img_tag: 'Antifog', 'replace-with lazyload' }}
+                        {% comment %}<video class="lozad" autoplay muted loop playsinline>
                            <source data-src="{{ 'display.mp4' | asset_url}}" type="video/mp4" />
-                        </video>
+                        </video>{% endcomment %}
 
                      {% elsif forloop.index == 2 %}
                         {{ 'antifog1.png' | asset_url | img_tag: 'Antifog', 'replace-with lazyload' }}

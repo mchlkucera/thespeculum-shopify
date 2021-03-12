@@ -1871,7 +1871,7 @@ var header = {
           // } else {
           //   $('.dropdown_container').show();
 
-          //   $('body').addClass('is-active'); // moved to 1880
+          //   $('body').addClass('is-active');
           //   if(!$(this).hasClass('cart-container')) {
           //     $('.is-absolute').parent().removeClass('feature_image');
           //   }
@@ -2123,6 +2123,8 @@ var header = {
 
 $('.mobile_nav').on('click', function(){
   $('.dropdown_container').toggle();
+  $('body').toggleClass('is-active');
+  $('.mobile_nav').find('div').toggleClass('open');
 })
 
 /*============================================================================
